@@ -1,4 +1,4 @@
-# Austin Bitcoin Developers
+# Honolulu Bitcoin Developers
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
@@ -23,7 +23,7 @@ following information:
 layout: post # Always post
 type: socratic # or whitepaper for a whitepaper series
 title: "Name of the Post"
-meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/[event id here]/
+meetup: https://www.meetup.com/honolulu-bitdevs/events/[event id here]/
 ---
 ```
 
@@ -38,4 +38,4 @@ Jekyll injects variables, so be sure to update both.
 ## Attributions
 
 Thanks to [LeNPaul](https://github.com/LeNPaul/jekyll-starter-kit) for the
-Jekyll starter kit this was forked from.
+Jekyll starter kit this was forked from and to the [Austin BitDevs](https://austinbitdevs.com/) crew for the inspiration
