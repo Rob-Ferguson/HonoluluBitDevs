@@ -1,6 +1,10 @@
 title: 'Honolulu Bitcoin Developers'
 tagline: 'Honolulu Bitcoin Developers is a meetup devoted to the research, development, and adoption of Bitcoin'
 
+domain: rob-ferguson.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://rob-ferguson.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /HonoluluBitDevs/      # place folder name if the site is served in a subfolder
+
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
