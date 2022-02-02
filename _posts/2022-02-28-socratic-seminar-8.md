@@ -10,5 +10,6 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 - Respect people's privacy
 - Interaction and asking questions are encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg) or [Sphinx Chat](https://tribes.sphinx.chat/t/austintexasbitcoiners)
-- [Bitcoiner Jobs](https://bitcoinerjobs.co/)
+- Pushed discussion on Special Purpose Digital Currency Licensure Bill to next month
+- [Apply for a Bitcoin job](https://bitcoinerjobs.com/)
+- [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
