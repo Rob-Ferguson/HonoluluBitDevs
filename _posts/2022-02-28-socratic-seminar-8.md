@@ -6,6 +6,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 ---
 
 # Announcements
+
 - [RSVP to the meetup!](https://www.meetup.com/honolulu-bitdevs/events/283910858?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Apply for a Bitcoin job](https://bitcoinerjobs.com/)
@@ -15,6 +16,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 
 # Hawaii Digital Currency Bills
+
 - [HB2108](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=2108&year=2022)
   - Establishes a program for the licensure, regulation, and oversight of special purpose digital currency companies
   - Extends operations of companies in the digital currency innovation lab pilot program under certain circumstances
@@ -35,6 +37,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 
 # Geopolitics
+
 - [Federal Reserve published paper on CBDC](https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf)
 - [Federal Reserve bans its officials from trading bitcoin, stocks, bonds](https://bitcoinmagazine.com/markets/fed-bans-its-officials-from-trading-bitcoin-stocks-bonds)
 - [FBI forms new enforcement division](https://bitcoinmagazine.com/markets/fbi-forms-new-bitcoin-unit-as-doj-taps-new-crypto-head)
@@ -43,20 +46,39 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
   - [Bitcoin fundraiser for Ottawa freedom convoy raises over 22 bitcoin (~$1M)](https://bitcoinmagazine.com/markets/bitcoin-fundraising-canada-ottawa-truckers-freedom-convoy)
   - [Trucker receiving $8k worth of BTC from donations on livestream](https://twitter.com/timpastoor/status/1494704248055029761?s=20&t=XjMLbuGEIQDbjO5kNJFENA)
   - ["Okay So Your Bank Account Is Frozen" Starter Pack](https://bankaccountfrozen.com/)
+  - [Canada ends emergency powers invoked against trucker protests (2/23)](https://www.reuters.com/world/americas/canada-ends-emergency-powers-invoked-tackle-truckers-protests-pm-trudeau-2022-02-23/)
+- [Russia invades Ukraine](https://www.aljazeera.com/tag/ukraine-russia-crisis/)
+  - [~$4M in Bitcoin donated to Ukraine military support groups](https://bitcoinmagazine.com/business/4-million-in-bitcoin-has-been-donated-to-ukraine-military-support-groups)
+  - [Ukrainian allies target Russia with sanctions and possible ban from SWIFT international payment network](https://www.reuters.com/world/europe/eu-announces-new-russia-sanctions-with-us-others-including-swift-2022-02-26/)
 - [Russia shares plan to regulate Bitcoin & crypto](https://bitcoinmagazine.com/markets/russia-shares-plan-to-regulate-bitcoin-crypto)
   - [Russia and geopolitical game theory](https://bitcoinmagazine.com/markets/russia-embracing-bitcoin-challenges-world)
 
 # Technology
-- [Distribution of address types by count/value](https://twitter.com/murchandamus/status/1493344130302414851?s=20&t=-nbchTF46imxToJ-d_1cYw)
-- [AOPP drama](https://lnmarkets.substack.com/p/41-aopp-bitcoin-options-and-much?utm_source=url)
+
+- [Distribution of address types by count/value](https://twitter.com/murchandamus/status/1493344130302414851)
+  - P2PKH outputs make up 23% of the count, but 72% of the value
+- [AOPP drama](https://lnmarkets.substack.com/p/41-aopp-bitcoin-options-and-much)
   - [Guy's Take #51: AOPP & the Travel Rule](https://play.fountain.fm/episode/6455618033)
 - [Jack Dorsey's Cash App integrates Bitcoin's Lightning Network](https://bitcoinmagazine.com/business/cash-app-integrates-bitcoins-lightning-network)
-- [PR to add BOLT12 to LND](https://ogbtc.substack.com/p/february-2022)
+- [Debate over BOLT12 Support in LND](https://github.com/lightningnetwork/lnd/issues/5594#issuecomment-1042314431)
   - Learn about BOLT12 - [Offers: Lightning's Native Experience, Everywhere](https://bolt12.org/)
 - [LNURLVend](https://github.com/arcbtc/LNURLVend)
   - Offline Lightning Network vending machine
 - [Bitcoin Design Guide V2 launches with focus on Lightning](https://bitcoinmagazine.com/business/bitcoin-design-guide-v2-launches-with-focus-on-lightning)
 
 # Mining
+
 - [ASIC competitors coming to market](https://ogbtc.substack.com/p/february-2022)
 - [Solo mining with Blockstream Satellite](https://notgrubles.medium.com/solo-mining-with-blockstream-satellite-9303fdfc5090)
+
+# Optional Topics
+##### *Depending on time/interest*
+
+- [Proof of Reserves (Kraken)](https://www.kraken.com/proof-of-reserves)
+- [BIP 322 PR](https://github.com/bitcoin/bitcoin/pull/24058)
+  - A standard for interoperable signed messages based on the Bitcoin Script format, either for proving fund availability, or committing to a message as the intended recipient of funds sent to the invoice address.
+- [Bitcoin Address Reuse Statistics](https://blog.bitmex.com/bitcoin-address-re-use-statistics/)
+- [Limitations Of RBF Policy And How To Improve](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019817.html)
+- [Thoughts on Fee Bumping](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019879.html)
+- [Original Fee Sponsorship Proposal](https://gist.github.com/JeremyRubin/92a9fc4c6531817f66c2934282e71fdf)
+- [Threshold Sigs with Musig + Merkle Trees](https://github.com/ElementsProject/scriptless-scripts/blob/master/md/thresh-metr.md)
