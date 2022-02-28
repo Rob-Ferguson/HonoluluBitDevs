@@ -69,11 +69,17 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 # Mining
 
 - [ASIC competitors coming to market](https://ogbtc.substack.com/p/february-2022)
+  - [SEC filing by one of Intel's partners has revealed both the pricing and performance of Intel's second-gen Bonanza Mine (BMZ2) Bitcoin miners](https://www.tomshardware.com/news/intels-second-gen-bitcoin-miners-performance-and-pricing-listed)
 - [Solo mining with Blockstream Satellite](https://notgrubles.medium.com/solo-mining-with-blockstream-satellite-9303fdfc5090)
 
 # Optional Topics
 ##### *Depending on time/interest*
 
+- [Synonym releases first iteration of SlashPay after Lightning Hackday Istanbul 2022](https://twitter.com/synonym_to/status/1498021273255002115?s=21)
+  - Method of abstracting all Bitcoin payment negotiation processes, features, options, communication, and server endpoints to occur outside of the nodes and without limiting a payment to any single format
+- [Teleport: a CoinSwap implementation alpha release, provides invisible private transactions](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/020026.html)
+- [RoboSats is a P2P market built on the Lightning Network to privately exchange bitcoin for national currencies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/020026.html)
+  - Uses lightning hold invoices to minimize custody and trust requirements
 - [DOJ recovers 94K BTC (~$3.6B) stolen from 2016 Bitfinex hack](https://bitcoinmagazine.com/markets/doj-recovers-36-billion-in-bitcoin-stolen-in-bitfinex-hack)
 - [Proof of Reserves (Kraken)](https://www.kraken.com/proof-of-reserves)
 - [BIP 322 PR](https://github.com/bitcoin/bitcoin/pull/24058)
