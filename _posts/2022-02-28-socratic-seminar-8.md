@@ -20,7 +20,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 - [HB2108](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=2108&year=2022)
   - Establishes a program for the licensure, regulation, and oversight of special purpose digital currency companies
   - Extends operations of companies in the digital currency innovation lab pilot program under certain circumstances
-  - Appropriates funds out of the compliance resolution fund to implements the program
+  - Appropriates funds out of the compliance resolution fund to implement the program
 - [SB2695](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=2695&year=2022)
   - Establishes a Blockchain and Cryptocurrency Task Force
 - [SB2696](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=2695&year=2022)
@@ -74,6 +74,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 # Optional Topics
 ##### *Depending on time/interest*
 
+- [DOJ recovers 94K BTC (~$3.6B) stolen from 2016 Bitfinex hack](https://bitcoinmagazine.com/markets/doj-recovers-36-billion-in-bitcoin-stolen-in-bitfinex-hack)
 - [Proof of Reserves (Kraken)](https://www.kraken.com/proof-of-reserves)
 - [BIP 322 PR](https://github.com/bitcoin/bitcoin/pull/24058)
   - A standard for interoperable signed messages based on the Bitcoin Script format, either for proving fund availability, or committing to a message as the intended recipient of funds sent to the invoice address.
