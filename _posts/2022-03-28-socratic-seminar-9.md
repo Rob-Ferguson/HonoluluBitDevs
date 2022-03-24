@@ -29,13 +29,9 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 # Market/Adoption
 
 - [Stripe, FTX Partner For Bitcoin Business Payments](https://bitcoinmagazine.com/business/stripe-ftx-partner-for-bitcoin-business-payments)
-
 - [As U.S. Inflation Hits 7.91%, Negative Impact On Bitcoin Price Looming](https://bitcoinmagazine.com/markets/inflation-accelerates-bitcoin-price-will-go-down)
-
 - [Hubspot Security Breach Leaks Bitcoin Users’ Data](https://bitcoinmagazine.com/business/hubspot-security-breach-leaks-bitcoin-users-data)
-
   - [Unchained Affected By Activecampaign Data Leak](https://unchained.com/blog/email-marketing-data-leak-notice/)
-
 - [Exchanges Asked to Freeze Accounts by USG in Light of Russia-Ukraine Conflict](https://www.bloomberg.com/news/articles/2022-02-28/u-s-prods-crypto-exchanges-to-thwart-russia-sanctions-dodgers?srnd=cryptocurrencies-v2)
 
 
@@ -55,9 +51,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 # Second Layer Tech
 
 - [Bitcoin Lightning Network Continues To Grow](https://bitcoinmagazine.com/markets/bitcoin-lightning-network-continues-to-grow)
-
 - [Decentralized Identifiers: Implications for Your Data, Payments and Communications](https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/)
-
   - [Tweethread summary](https://twitter.com/Asher68W/status/1506064904825933824?s=20&t=GAFW7Cn6SuYhT1HjqpIMLA)
 
 
