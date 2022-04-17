@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 # Mining/Energy
 - ["Bitcoin Mining & The Grid (Part 1): Generators" by Braiins](https://braiins.com/blog/bitcoin-mining-the-grid-generators)
-- ["Bitcoin Net Zero" by NYDIG]()
+- ["Bitcoin Net Zero" by NYDIG](https://nydig.com/research/report-bitcoin-net-zero)
 
 # Economics/Money
 - ["Shelling Out: The Origins of Money" by Nick Szabo](https://nakamotoinstitute.org/shelling-out/)
