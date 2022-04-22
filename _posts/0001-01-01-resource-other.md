@@ -20,3 +20,4 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 - ["Okay So Your Bank Account Is Frozen" Starter Pack](https://bankaccountfrozen.com/)
   - Easy self-custody guide for beginners
 - [Bitcoiner Guide by Bitcoin Q+A](https://bitcoiner.guide/)
+  - Large collection of guides for Bitcoin-related activities

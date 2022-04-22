@@ -19,9 +19,10 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 # Geopolitics
 
 - [Greenpeace, Ripple Lobby To Move Bitcoin Away From Proof-Of-Work](https://bitcoinmagazine.com/markets/greenpeace-seeks-to-change-bitcoin-code)
-- [Bitcoin Advocacy Project Announces Super Pac To Propel U.S. To Hyperbitcoinization](https://bitcoinmagazine.com/culture/bitcoin-advocacy-project-launches-super-pac)
 - [Samson Mow Announces Pro Bitcoin Legislation In Three Countries](https://bitcoinmagazine.com/culture/global-legislators-announce-pro-bitcoin-legislation)
   - Próspera in Honduras, Madeira in Portugal, and Mexico
+- [New Sanctions Against Russia Affect Bitcoin Mining Companies](https://home.treasury.gov/news/press-releases/jy0731)
+  - [Compass Mining Forced To Liquidate ASICs In Russian BitRiver Facility](https://twitter.com/nobsbitcoin/status/1517182641367400448?s=20&t=bM3ihOVndXbrxgwuWGLzYQ)
 
 
 # Market/Adoption
@@ -34,11 +35,14 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 - [Taro: A New Protocol for Multi-Asset Bitcoin and Lightning](https://lightning.engineering/posts/2022-4-5-taro-launch/)
   - [How Taro Brings Assets To Bitcoin Through Taproot And Lightning](https://bitcoinmagazine.com/technical/how-bitcoin-taro-protocol-works)
-  - [Twitter thread by @roasbeef from Lightning Labs](https://twitter.com/roasbeef/status/1511361929507479552?s=28&t=Dq1-tWWMYhF4GdNLuQ3ZRQ)
+  - [Twitter Thread By @roasbeef From Lightning Labs](https://twitter.com/roasbeef/status/1511361929507479552?s=28&t=Dq1-tWWMYhF4GdNLuQ3ZRQ)
 - [Jack Mallers’ Strike Integrating With World’s Largest Pos Providers To Enable Sovereign Payments With Bitcoin](https://bitcoinmagazine.com/industry-events/jack-mallers-adding-bitcoin-to-major-pos-networks)
 - [Impervious AI Releases Internet Browser Built On Bitcoin](https://bitcoinmagazine.com/business/impervious-ai-releases-internet-browser-built-on-bitcoin)
-- [Cash App Announces New Lightning Integration, ‘pay Me In Bitcoin’ Feature](https://bitcoinmagazine.com/business/cash-app-adds-pay-me-in-bitcoin-lightning-features)
-- [Bitcoin Gaming Company Zebedee Announces New Lightning Donation Streaming Tool](https://bitcoinmagazine.com/business/bitcoin-gaming-company-zebedee-announces-new-lightning-donation-streaming-tool)
+- Lightning Integration
+  - [Cash App Announces New Lightning Integration, ‘Pay Me In Bitcoin’ Feature](https://bitcoinmagazine.com/business/cash-app-adds-pay-me-in-bitcoin-lightning-features)
+  - [Kraken Exchange Integrates Bitcoin’s Lightning Network](https://bitcoinmagazine.com/business/kraken-exchange-integrates-bitcoins-lightning-network)
+  - [BitPay Supports Lightning Network Payments](https://bitpay.com/blog/bitpay-supports-lightning-network-payments/)
+  - [Robinhood Integrates Lightning Network](https://markets.businessinsider.com/news/stocks/hood-stock-broadens-appeal-with-bitcoin-lightning-network-integration-1031343901)
 
 # Mining
 
@@ -50,6 +54,9 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 # Optional Topics
 
-- Nate's thoughts on how To assess projects in the space (~10m)
+- [Nate's interview with Troy Cross: "Bitcoin, Energy, and the Environment"](https://anchor.fm/troy-cross0)
+- Nate's thoughts on how to assess projects in the space (~10m)
+- [Bitcoin Advocacy Project Announces Super Pac To Propel U.S. To Hyperbitcoinization](https://bitcoinmagazine.com/culture/bitcoin-advocacy-project-launches-super-pac)
 - [Ten31 Partners With Seetee For Powerhouse Bitcoin Infrastructure Investment Initiative](https://bitcoinmagazine.com/business/ten31-partners-with-seetee-for-bitcoin-investments)
 - [Tennessee Titans Become First NFL Team To Accept Bitcoin](https://bitcoinmagazine.com/business/tennessee-titans-become-first-nfl-team-to-accept-bitcoin)
+- [Bitcoin Gaming Company Zebedee Announces New Lightning Donation Streaming Tool](https://bitcoinmagazine.com/business/bitcoin-gaming-company-zebedee-announces-new-lightning-donation-streaming-tool)
