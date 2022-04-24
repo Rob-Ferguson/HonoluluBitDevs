@@ -23,13 +23,13 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
   - Próspera in Honduras, Madeira in Portugal, and Mexico
 - [New Sanctions Against Russia Affect Bitcoin Mining Companies](https://home.treasury.gov/news/press-releases/jy0731)
   - [Compass Mining Forced To Liquidate ASICs In Russian BitRiver Facility](https://twitter.com/nobsbitcoin/status/1517182641367400448?s=20&t=bM3ihOVndXbrxgwuWGLzYQ)
+- [Ukraine's Central Bank Bans Crypto Purchases in Local Currency](https://www.coindesk.com/policy/2022/04/22/ukraines-central-bank-bans-crypto-purchases-in-local-currency/)
 
 
 # Market/Adoption
 
 - [U.S. Inflation Leaped To 40-Year High Of 8.5% In March](https://www.marketwatch.com/story/coming-up-consumer-price-index-for-march-11649764935)
 - [Macrostrategy Closes $205 Million Bitcoin-Collateralized Loan From Silvergate Bank To Buy Btc](https://bitcoinmagazine.com/business/macrostrategy-bitcoin-collateralized-loan-from-silvergate-bank-to-buy-btc)
-- [Lightning Labs Announces $70 Million Series B Raise](https://bitcoinmagazine.com/business/lightning-labs-announces-70-million-series-b-raise)
 
 # Technology
 
@@ -49,13 +49,14 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 - [The 19 Millionth Bitcoin Has Been Mined](https://bitcoinmagazine.com/markets/19-million-bitcoin-have-been-mined)
 - [Blockstream, Block To Leverage Tesla Equipment For Renewable Bitcoin Mining Operation](https://bitcoinmagazine.com/business/blockstream-using-tesla-array-for-bitcoin-mining)
 - [Intel Launches New Bitcoin Mining Chip, Blockscale](https://bitcoinmagazine.com/business/intel-launches-new-bitcoin-mining-chip-blockscale)
-- [Canaan Announces New Asic Miner Along With Company Standards For Green Bitcoin Mining](https://bitcoinmagazine.com/business/canaan-announces-a-new-bitcoin-asic-and-green-mining)
+- [Canaan Announces New ASIC Miner Along With Company Standards For Green Bitcoin Mining](https://bitcoinmagazine.com/business/canaan-announces-a-new-bitcoin-asic-and-green-mining)
 - [Microbt Announces More Efficient M50 Series Of Whatsminer Rigs](https://bitcoinmagazine.com/business/microbt-announces-m50-bitcoin-miners)
 
 # Optional Topics
 
 - [Nate's interview with Troy Cross: "Bitcoin, Energy, and the Environment"](https://anchor.fm/troy-cross0)
 - Nate's thoughts on how to assess projects in the space (~10m)
+- [Lightning Labs Announces $70 Million Series B Raise](https://bitcoinmagazine.com/business/lightning-labs-announces-70-million-series-b-raise)
 - [Bitcoin Advocacy Project Announces Super Pac To Propel U.S. To Hyperbitcoinization](https://bitcoinmagazine.com/culture/bitcoin-advocacy-project-launches-super-pac)
 - [Ten31 Partners With Seetee For Powerhouse Bitcoin Infrastructure Investment Initiative](https://bitcoinmagazine.com/business/ten31-partners-with-seetee-for-bitcoin-investments)
 - [Tennessee Titans Become First NFL Team To Accept Bitcoin](https://bitcoinmagazine.com/business/tennessee-titans-become-first-nfl-team-to-accept-bitcoin)
