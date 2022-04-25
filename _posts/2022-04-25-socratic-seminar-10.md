@@ -35,6 +35,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 # Technology
 
+- [Bitcoin Core 23.0 Released](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2022-April/000111.html)
 - [Taro: A New Protocol for Multi-Asset Bitcoin and Lightning](https://lightning.engineering/posts/2022-4-5-taro-launch/)
   - [How Taro Brings Assets To Bitcoin Through Taproot And Lightning](https://bitcoinmagazine.com/technical/how-bitcoin-taro-protocol-works)
   - [Twitter Thread By @roasbeef From Lightning Labs](https://twitter.com/roasbeef/status/1511361929507479552?s=28&t=Dq1-tWWMYhF4GdNLuQ3ZRQ)
@@ -59,6 +60,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 - [Nate's interview with Troy Cross: "Bitcoin, Energy, and the Environment"](https://anchor.fm/troy-cross0)
 - Nate's thoughts on how to assess projects in the space (~10m)
+- [Bitcoin Mining Council Survey Confirms Year on Year Improvements in Sustainable Power Mix and Technological Efficiency](https://bitcoinminingcouncil.com/bitcoin-mining-council-survey-confirms-year-on-year-improvements-in-sustainable-power-mix-and-technological-efficiency/)
 - [Lightning Labs Announces $70 Million Series B Raise](https://bitcoinmagazine.com/business/lightning-labs-announces-70-million-series-b-raise)
 - [Bitcoin Advocacy Project Announces Super Pac To Propel U.S. To Hyperbitcoinization](https://bitcoinmagazine.com/culture/bitcoin-advocacy-project-launches-super-pac)
 - [Ten31 Partners With Seetee For Powerhouse Bitcoin Infrastructure Investment Initiative](https://bitcoinmagazine.com/business/ten31-partners-with-seetee-for-bitcoin-investments)
