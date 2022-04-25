@@ -19,7 +19,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 # Geopolitics
 
 - [Parliament Of The Central African Republic Unanimously Passes Bill Establishing Cryptocurrency Legal Framework](https://forbes.mc/article/first-african-country-adopt-bitcoin-legal-currency-central-african-republic)
- - [Article from a local NGO (in French)](https://www.rjdhrca.org/centrafrique-le-projet-de-loi-regissant-la-cryptomonnaie-vote-a-lunanimite-par-les-elus-de-la-nation-%EF%BF%BC/)
+  - [Article from a local NGO (in French)](https://www.rjdhrca.org/centrafrique-le-projet-de-loi-regissant-la-cryptomonnaie-vote-a-lunanimite-par-les-elus-de-la-nation-%EF%BF%BC/)
 - [Samson Mow Announces Pro Bitcoin Legislation In Three Countries](https://bitcoinmagazine.com/culture/global-legislators-announce-pro-bitcoin-legislation)
   - Próspera in Honduras, Madeira in Portugal, and Mexico
 - [Ukraine's Central Bank Bans Crypto Purchases in Local Currency](https://www.coindesk.com/policy/2022/04/22/ukraines-central-bank-bans-crypto-purchases-in-local-currency/)
