@@ -18,12 +18,14 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 # Geopolitics
 
-- [Greenpeace, Ripple Lobby To Move Bitcoin Away From Proof-Of-Work](https://bitcoinmagazine.com/markets/greenpeace-seeks-to-change-bitcoin-code)
+- [Parliament Of The Central African Republic Unanimously Passes Bill Establishing Cryptocurrency Legal Framework](https://forbes.mc/article/first-african-country-adopt-bitcoin-legal-currency-central-african-republic)
+ - [Article from a local NGO (in French)](https://www.rjdhrca.org/centrafrique-le-projet-de-loi-regissant-la-cryptomonnaie-vote-a-lunanimite-par-les-elus-de-la-nation-%EF%BF%BC/)
 - [Samson Mow Announces Pro Bitcoin Legislation In Three Countries](https://bitcoinmagazine.com/culture/global-legislators-announce-pro-bitcoin-legislation)
   - Próspera in Honduras, Madeira in Portugal, and Mexico
+- [Ukraine's Central Bank Bans Crypto Purchases in Local Currency](https://www.coindesk.com/policy/2022/04/22/ukraines-central-bank-bans-crypto-purchases-in-local-currency/)
 - [New Sanctions Against Russia Affect Bitcoin Mining Companies](https://home.treasury.gov/news/press-releases/jy0731)
   - [Compass Mining Forced To Liquidate ASICs In Russian BitRiver Facility](https://twitter.com/nobsbitcoin/status/1517182641367400448?s=20&t=bM3ihOVndXbrxgwuWGLzYQ)
-- [Ukraine's Central Bank Bans Crypto Purchases in Local Currency](https://www.coindesk.com/policy/2022/04/22/ukraines-central-bank-bans-crypto-purchases-in-local-currency/)
+- [Greenpeace, Ripple Lobby To Move Bitcoin Away From Proof-Of-Work](https://bitcoinmagazine.com/markets/greenpeace-seeks-to-change-bitcoin-code)
 
 
 # Market/Adoption
@@ -48,9 +50,10 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 - [The 19 Millionth Bitcoin Has Been Mined](https://bitcoinmagazine.com/markets/19-million-bitcoin-have-been-mined)
 - [Blockstream, Block To Leverage Tesla Equipment For Renewable Bitcoin Mining Operation](https://bitcoinmagazine.com/business/blockstream-using-tesla-array-for-bitcoin-mining)
-- [Intel Launches New Bitcoin Mining Chip, Blockscale](https://bitcoinmagazine.com/business/intel-launches-new-bitcoin-mining-chip-blockscale)
-- [Canaan Announces New ASIC Miner Along With Company Standards For Green Bitcoin Mining](https://bitcoinmagazine.com/business/canaan-announces-a-new-bitcoin-asic-and-green-mining)
-- [Microbt Announces More Efficient M50 Series Of Whatsminer Rigs](https://bitcoinmagazine.com/business/microbt-announces-m50-bitcoin-miners)
+- New Mining Hardware
+  - [Intel Launches New Bitcoin Mining Chip, Blockscale](https://bitcoinmagazine.com/business/intel-launches-new-bitcoin-mining-chip-blockscale)
+  - [Canaan Announces New ASIC Miner Along With Company Standards For Green Bitcoin Mining](https://bitcoinmagazine.com/business/canaan-announces-a-new-bitcoin-asic-and-green-mining)
+  - [MicroBT Announces More Efficient M50 Series Of Whatsminer Rigs](https://bitcoinmagazine.com/business/microbt-announces-m50-bitcoin-miners)
 
 # Optional Topics
 
