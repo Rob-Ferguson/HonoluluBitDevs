@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic 10"
-meetup: https://www.meetup.com/honolulu-bitdevs/
+title: "Socratic 11"
+meetup: https://www.meetup.com/honolulu-bitdevs/events/285894161
 ---
 
 # Announcements

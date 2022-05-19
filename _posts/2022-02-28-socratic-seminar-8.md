@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic 8"
-meetup: https://www.meetup.com/honolulu-bitdevs/
+meetup: https://www.meetup.com/honolulu-bitdevs/events/283910858
 ---
 
 # Announcements
