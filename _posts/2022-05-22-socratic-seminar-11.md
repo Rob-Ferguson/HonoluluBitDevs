@@ -71,3 +71,4 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 - [Joe Lubin on PoW vs PoS](https://twitter.com/TuurDemeester/status/1526670962837671937?s=20&t=NPaOBSSXhgZa_yEy-Tfrgw)
 - [Libra Creator David Marcus Begins New Lightning Network Venture, Lightspark](https://markets.businessinsider.com/news/currencies/libra-creator-david-marcus-begins-new-lightning-network-venture-lightspark-1031455696)
 - [Taro Explainer Video From Lightning Labs](https://youtu.be/-yiTtO_p3Cw)
+- [Nate's Interview With Compass Mining About OTEC](https://youtu.be/ZaXfoAKnrcM)
