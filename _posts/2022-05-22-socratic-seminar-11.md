@@ -7,13 +7,13 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/285894161
 
 # Announcements
 
+- [Bitcoin Pizza Day](https://youtu.be/tWU3O3X5kKE)
 - Respect People’s Privacy
 - Interaction And Asking Questions Are Encouraged
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- [Apply For A Bitcoin Job](https://bitcoinerjobs.com/)
 - [Join Our Telegram Group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Now Accepting Bitcoin Donations](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
-- Azteco vendor
+- Azteco Vendor
 
 # Bitcoin KPIs
 
@@ -25,6 +25,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/285894161
 - [100,000 Cubans Are Using Bitcoin In Response To U.S. Sanctions](https://bitcoinmagazine.com/business/100000-cubans-are-using-bitcoin-in-response-to-us-sanctions)
 - [Panama Assembly Passes Bill Regulating Bitcoin, Crypto](https://bitcoinmagazine.com/business/panama-assembly-passes-bill-regulating-bitcoin-crypto)
 - [Central Bank Of Argentina Bans Banks From Offering Bitcoin, Crypto Services](https://bitcoinmagazine.com/business/argentina-bans-banks-from-offering-bitcoinhttps://bitcoinmagazine.com/business/argentina-largest-private-bank-now-allows-users-to-buy-bitcoin)
+- [The "Schools And Bitcoin" Project Is Launching For 40 High Schools In Argentina](https://bitcoinmagazine.com/business/bitcoin-education-launches-in-argentina-for-high-schools)
 - [U.S. Treasury Issues First-Ever Sanctions On A Virtual Currency Mixer, Targets DPRK Cyber Threats](https://home.treasury.gov/news/press-releases/jy0768)
 
 # Market/Adoption
@@ -56,7 +57,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/285894161
 
 # Optional Topics
 
-- [Package Relay Proposals](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html)
+- [Package Relay Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html)
 - [Turkey Inflation Data Shows Annual 70% CPI Increase](https://bitcoinmagazine.com/markets/turkey-inflation-data-shows-annual-70-cpi-increase-bitcoin-fixes-this)
 - [Georgetown Law Research Shows ICE Tracks 75% Of Americans](https://americandragnet.org/)
 - [El Salvador Scoops Up 500 BTC During The Dip](https://bitcoinmagazine.com/markets/el-salvador-buys-the-wild-bitcoin-dip-with-500-btc-purchase)
