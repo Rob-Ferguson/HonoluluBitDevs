@@ -24,7 +24,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/285894161
 - [El Salvador Hosts Central Bankers And Financial Regulators From 44 Countries To Discuss Bitcoin And Financial Inclusion](https://fortune.com/2022/05/16/el-salvador-president-nayib-bukele-davos-bitcoin-crypto/)
 - [100,000 Cubans Are Using Bitcoin In Response To U.S. Sanctions](https://bitcoinmagazine.com/business/100000-cubans-are-using-bitcoin-in-response-to-us-sanctions)
 - [Panama Assembly Passes Bill Regulating Bitcoin, Crypto](https://bitcoinmagazine.com/business/panama-assembly-passes-bill-regulating-bitcoin-crypto)
-- [Central Bank Of Argentina Bans Banks From Offering Bitcoin, Crypto Services](https://bitcoinmagazine.com/business/argentina-bans-banks-from-offering-bitcoinhttps://bitcoinmagazine.com/business/argentina-largest-private-bank-now-allows-users-to-buy-bitcoin)
+- [Central Bank Of Argentina Bans Banks From Offering Bitcoin, Crypto Services](https://bitcoinmagazine.com/business/argentina-bans-banks-from-offering-bitcoin)
 - [The "Schools And Bitcoin" Project Is Launching For 40 High Schools In Argentina](https://bitcoinmagazine.com/business/bitcoin-education-launches-in-argentina-for-high-schools)
 - [U.S. Treasury Issues First-Ever Sanctions On A Virtual Currency Mixer, Targets DPRK Cyber Threats](https://home.treasury.gov/news/press-releases/jy0768)
 
