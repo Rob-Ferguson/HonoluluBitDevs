@@ -39,6 +39,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/285894161
 # Technology
 
 - [Casa Announces New API And $21 Million Series A](https://blog.keys.casa/announcing-api-series-a/)
+- [Recent Controversy Around BIP 119 (CheckTemplateVerify) Covenant Proposal](https://bitcoinmagazine.com/technical/what-is-bip-119-bitcoin-controversy-explained)
 - [Rusty Russell Releases Alternative Covenants Proposal: OP_TX](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020450.html)
   - [Citadel Dispatch Episode With Rusty Discussing OP_TX](https://www.podpage.com/citadeldispatch/cd64-bip119-ctv-and-the-bitcoin-development-process-with-rusty_twit-and-brian_trollz/)
 - [Spiral Releases Framework For Sustainable Open-Source Bitcoin Development](https://spiral.xyz/blog/a-framework-for-sustainable-open-source-bitcoin-development/)
