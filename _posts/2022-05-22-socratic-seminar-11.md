@@ -21,7 +21,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/285894161
 
 # Geopolitics
 
-- [El Salvador Hosts Central Bankers And Financial Regulators From 44 Countries To Discuss Bitcoin And Financial Inclusion](https://fortune.com/2022/05/16/el-salvador-president-nayib-bukele-davos-bitcoin-crypto/)
+- [El Salvador Hosts Central Bankers And Financial Regulators From 44 Countries To Discuss Bitcoin And Financial Inclusion](https://bitcoinmagazine.com/culture/el-salvador-brought-44-countries-to-bitcoin)
 - [100,000 Cubans Are Using Bitcoin In Response To U.S. Sanctions](https://bitcoinmagazine.com/business/100000-cubans-are-using-bitcoin-in-response-to-us-sanctions)
 - [Panama Assembly Passes Bill Regulating Bitcoin, Crypto](https://bitcoinmagazine.com/business/panama-assembly-passes-bill-regulating-bitcoin-crypto)
 - [Central Bank Of Argentina Bans Banks From Offering Bitcoin, Crypto Services](https://bitcoinmagazine.com/business/argentina-bans-banks-from-offering-bitcoin)
