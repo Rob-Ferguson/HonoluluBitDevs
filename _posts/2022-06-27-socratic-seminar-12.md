@@ -13,7 +13,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 - [Apply For A Bitcoin Job](https://bitcoinerjobs.com/)
 - [Join Our Telegram Group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Now Accepting Bitcoin Donations](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
-- [Future Meetup Venue]
+- Future Meetup Venue
 
 # Bitcoin KPIs
 
@@ -31,7 +31,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 - [Only The Strong Survive](https://www.uncerto.com/only-the-strong-survive)
   - [Celsius Halts Bitcoin Withdrawals Amid Price Crash](https://bitcoinmagazine.com/markets/celsius-halts-bitcoin-withdrawals-what-went-wrong)
   - [FTX Bails Out BlockFi With $250m Revolving Credit Facility Amid Complaints Of Withdrawal Delays](https://nitter.net/BlockFiZac/status/1539216594383028224)
-  - [Twitter breakdown about Three Arrows Capital](https://twitter.com/FatManTerra/status/1539974901464895490)
+  - [Twitter Breakdown About Three Arrows Capital](https://twitter.com/FatManTerra/status/1539974901464895490)
 - [Strike And HRF Announce $100k Grant For BTCPayServer At Oslo Freedom Forum](https://nitter.net/BtcpayServer/status/1529065438298120198)
 - [Block Inc Released A Survey Discussing Misconceptions Surrounding Bitcoin](https://bitcoinmagazine.com/business/block-and-wakefield-research-release-bitcoin-survey-report)
 - [Jack Dorsey And Jay-Z Announce The Bitcoin Academy In Brooklyn, NY](https://bitcoinmagazine.com/business/jack-dorsey-and-jay-z-announce-the-bitcoin-academy)
