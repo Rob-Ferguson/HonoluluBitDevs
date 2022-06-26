@@ -13,6 +13,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 - [Apply For A Bitcoin Job](https://bitcoinerjobs.com/)
 - [Join Our Telegram Group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Now Accepting Bitcoin Donations](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
+- [Future Meetup Venue]
 
 # Bitcoin KPIs
 
@@ -22,19 +23,20 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 
 - [Central African Republic To Launch Bitcoin, Crypto Hub](https://bitcoinmagazine.com/business/central-african-republic-to-launch-bitcoin-crypto-hub)
 - [Lummis/Gillibrand Introduce Responsible Financial Innovation Act](https://bitcoinmagazine.com/business/heres-whats-in-senator-lummis-bitcoin-bill)
-- [Human Rights Leaders Pen Letter To Us Congress For Responsible Bitcoin Legislation](https://bitcoinmagazine.com/legal/human-rights-leaders-write-bitcoin-letter-to-congress)
+- [Human Rights Leaders Pen Letter To US Congress For Responsible Bitcoin Legislation](https://bitcoinmagazine.com/legal/human-rights-leaders-write-bitcoin-letter-to-congress)
 
 # Market/Adoption
 
-- [Stripe To Enable Millions Of Merchants To Convert Payments Into Bitcoin Via Opennode](https://bitcoinmagazine.com/business/stripe-and-opennode-to-release-app-for-bitcoin-payments)
-- [Celsius Halts Bitcoin Withdrawals Amid Price Crash](https://bitcoinmagazine.com/markets/celsius-halts-bitcoin-withdrawals-what-went-wrong)
-- [Proshares To Release ETF That Allows Investors To Short Bitcoin](https://bitcoinmagazine.com/markets/proshares-to-release-short-bitcoin-strategy-etf)
-- [Strike And HRF Announce $100k Grant For BTCPay Server At Oslo Freedom Forum](https://nitter.net/BtcpayServer/status/1529065438298120198)
+- [Stripe To Enable Millions Of Merchants To Convert Payments Into Bitcoin Via OpenNode](https://bitcoinmagazine.com/business/stripe-and-opennode-to-release-app-for-bitcoin-payments)
+- [Only The Strong Survive](https://www.uncerto.com/only-the-strong-survive)
+  - [Celsius Halts Bitcoin Withdrawals Amid Price Crash](https://bitcoinmagazine.com/markets/celsius-halts-bitcoin-withdrawals-what-went-wrong)
+  - [FTX Bails Out BlockFi With $250m Revolving Credit Facility Amid Complaints Of Withdrawal Delays](https://nitter.net/BlockFiZac/status/1539216594383028224)
+  - [Twitter breakdown about Three Arrows Capital](https://twitter.com/FatManTerra/status/1539974901464895490)
+- [Strike And HRF Announce $100k Grant For BTCPayServer At Oslo Freedom Forum](https://nitter.net/BtcpayServer/status/1529065438298120198)
 - [Block Inc Released A Survey Discussing Misconceptions Surrounding Bitcoin](https://bitcoinmagazine.com/business/block-and-wakefield-research-release-bitcoin-survey-report)
 - [Jack Dorsey And Jay-Z Announce The Bitcoin Academy In Brooklyn, NY](https://bitcoinmagazine.com/business/jack-dorsey-and-jay-z-announce-the-bitcoin-academy)
 - [IBEX Onboards 85 Merchants In Miami To The Bitcoin Lightning Network](https://bitcoinmagazine.com/business/ibex-onboard-85-merchants-in-miami-to-bitcoin)
 - [Deloitte And NYDIG Announce Alliance To Provide Banking For All With Bitcoin](https://www.prnewswire.com/news-releases/deloitte-and-nydig-announce-alliance-to-provide-banking-for-all-with-bitcoin-301571356.html)
-- [FTX Bails Out BlockFi With $250m Revolving Credit Facility Amid Complaints Of Withdrawal Delays](https://nitter.net/BlockFiZac/status/1539216594383028224)
 
 # Technology
 
@@ -52,10 +54,10 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 
 # Optional Topics
 
+- [Proshares To Release ETF That Allows Investors To Short Bitcoin](https://bitcoinmagazine.com/markets/proshares-to-release-short-bitcoin-strategy-etf)
 - [China Bank Protest Stopped By Health Codes Turning Red](https://www.reuters.com/world/china/china-bank-protest-stopped-by-health-codes-turning-red-depositors-say-2022-06-14/)
 - [Paypal Now Allows Bitcoin Transfers To External Wallets](https://bitcoinmagazine.com/business/paypal-allows-bitcoin-crypto-transfers-to-external-wallets)
 - [Ethiopian Central Bank Reminds Citizens Business Transactions Using Bitcoin Are “Illegal”](https://bitcoinmagazine.com/business/bitcoin-transactions-are-illegal-ethiopian-central-bank)
-- [Russia Mulls Allowing Cryptocurrency For International Payments](https://www.reuters.com/markets/currencies/russia-mulls-allowing-cryptocurrency-international-payments-ifax-2022-05-27/)
 - [Janet Yellen Backtracks On "Transitory Inflation" In CNN Interview](https://www.cnn.com/2022/05/31/politics/treasury-secretary-janet-yellen-inflation-cnntv/index.html)
 - [BitMEX Founder Hayes Avoids Prison On Bank Secrecy Charge](https://www.bloomberg.com/news/articles/2022-05-20/bitmex-co-founder-arthur-hayes-sentenced-to-two-years-probation)
 - [Bitcoin Park Launches In Nashville, TN](https://twitter.com/ODELL/status/1534884076108275713)
