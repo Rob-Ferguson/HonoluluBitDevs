@@ -42,8 +42,9 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 
 - [Jack Dorsey’s TBD Presents Bitcoin-Based Decentralized Web5](https://bitcoinmagazine.com/business/jack-dorseys-tbd-presents-bitcoin-based-decentralized-web5)
 - [Lightning Network Developer Summit 2022 Notes & Summary/Commentary](https://bitcoinops.org/en/newsletters/2022/06/15/#summary-of-ln-developer-meeting)
+- [Ongoing DDoS Attempt Impacting The Tor Network](https://status.torproject.org/issues/2022-06-09-network-ddos)
 - [Hackathon Project To Use LDK To Probe The Lightning Network For The Detection Of Private Channels](https://github.com/BitcoinDevShop/hidden-lightning-network)
-- [Whitepaper Drops For New Decentralized Mixer Based On MuSig Signature Aggregation: DMix](https://fadibarbara.it/papers/dmix.pdf)
+
 
 # Mining
 
@@ -54,6 +55,9 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 
 # Optional Topics
 
+- [Russia Defaults On Foreign Debt For First Time Since 1918](https://www.bbc.com/news/business-61929926)
+- [191% Inflation And 190% Interest Rates In Zimbabwe](https://twitter.com/gladstein/status/1540766157212332032?s=20&t=WVnbyTD6Pk10__2VDUk4Cw)
+- [UK Inflation Rises To A New 40-Year High Of 9.1%](https://twitter.com/BloombergUK/status/1539491204575989761?s=20&t=74md4g3rOXJx2U8eQ85xzg)
 - [Proshares To Release ETF That Allows Investors To Short Bitcoin](https://bitcoinmagazine.com/markets/proshares-to-release-short-bitcoin-strategy-etf)
 - [China Bank Protest Stopped By Health Codes Turning Red](https://www.reuters.com/world/china/china-bank-protest-stopped-by-health-codes-turning-red-depositors-say-2022-06-14/)
 - [Paypal Now Allows Bitcoin Transfers To External Wallets](https://bitcoinmagazine.com/business/paypal-allows-bitcoin-crypto-transfers-to-external-wallets)
@@ -62,6 +66,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 - [BitMEX Founder Hayes Avoids Prison On Bank Secrecy Charge](https://www.bloomberg.com/news/articles/2022-05-20/bitmex-co-founder-arthur-hayes-sentenced-to-two-years-probation)
 - [Bitcoin Park Launches In Nashville, TN](https://twitter.com/ODELL/status/1534884076108275713)
 - [Bitcoin Is Losing Favor On Darknet Markets](https://bitcoinmagazine.com/markets/bitcoin-is-losing-favor-on-darknet-markets)
+- [Whitepaper Drops For New Decentralized Mixer Based On MuSig Signature Aggregation: DMix](https://fadibarbara.it/papers/dmix.pdf)
 - [Ex-Developer For Wasabi Wallet Warns Against Wasabi 2.0 Usage](https://nitter.net/mHaGqnOACyFm0h5/status/1536442355003293700)
 - [P2P LN Trading Protocol Robosats Enables Withdrawals Directly To Cold Storage](https://twitter.com/robosats/status/1538498256400965632)
 - [Silent Payments Improve Privacy Without Adding Data To Bitcoin](https://bitcoinmagazine.com/technical/silent-payments-improve-privacy-without-bitcoin-data)
