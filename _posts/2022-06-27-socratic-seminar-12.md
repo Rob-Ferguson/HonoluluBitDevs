@@ -13,6 +13,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 - [Apply For A Bitcoin Job](https://bitcoinerjobs.com/)
 - [Join Our Telegram Group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Now Accepting Bitcoin Donations](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
+- [Coinkite Giveaway](https://coinkite.com/)
 - Future Meetup Venue
 
 # Bitcoin KPIs
@@ -34,7 +35,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
   - [Twitter Breakdown About Three Arrows Capital](https://twitter.com/FatManTerra/status/1539974901464895490)
 - [Strike And HRF Announce $100k Grant For BTCPayServer At Oslo Freedom Forum](https://nitter.net/BtcpayServer/status/1529065438298120198)
 - [Block Inc Released A Survey Discussing Misconceptions Surrounding Bitcoin](https://bitcoinmagazine.com/business/block-and-wakefield-research-release-bitcoin-survey-report)
-- [Jack Dorsey And Jay-Z Announce The Bitcoin Academy In Brooklyn, NY](https://bitcoinmagazine.com/business/jack-dorsey-and-jay-z-announce-the-bitcoin-academy)
+- [Jack Dorsey And Jay-Z Announce The Bitcoin Academy In Brooklyn, NY](https://www.brooklynpaper.com/marcy-house-residents-jay-z-bitcoin-academy/)
 - [IBEX Onboards 85 Merchants In Miami To The Bitcoin Lightning Network](https://bitcoinmagazine.com/business/ibex-onboard-85-merchants-in-miami-to-bitcoin)
 - [Deloitte And NYDIG Announce Alliance To Provide Banking For All With Bitcoin](https://www.prnewswire.com/news-releases/deloitte-and-nydig-announce-alliance-to-provide-banking-for-all-with-bitcoin-301571356.html)
 
@@ -56,6 +57,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 # Optional Topics
 
 - [Russia Defaults On Foreign Debt For First Time Since 1918](https://www.bbc.com/news/business-61929926)
+- [Sri Lanka's Prime Minister Says Economy Has "Completely Collapsed"](https://www.cnn.com/2022/06/23/asia/sri-lanka-economy-collapse-prime-minister-intl-hnk/index.html)
 - [191% Inflation And 190% Interest Rates In Zimbabwe](https://twitter.com/gladstein/status/1540766157212332032?s=20&t=WVnbyTD6Pk10__2VDUk4Cw)
 - [UK Inflation Rises To A New 40-Year High Of 9.1%](https://twitter.com/BloombergUK/status/1539491204575989761?s=20&t=74md4g3rOXJx2U8eQ85xzg)
 - [Proshares To Release ETF That Allows Investors To Short Bitcoin](https://bitcoinmagazine.com/markets/proshares-to-release-short-bitcoin-strategy-etf)
