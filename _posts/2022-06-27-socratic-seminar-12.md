@@ -53,6 +53,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/286407334/
 - [New York State To Place Moratorium On Non-Renewable Bitcoin Mining](https://bitcoinmagazine.com/business/new-york-to-place-moratorium-on-carbon-based-bitcoin-mining)
 - [Kenya’s Largest Power Provider To Offer Geothermal Energy To Bitcoin Miners](https://bitcoinmagazine.com/business/kengen-to-provide-geothermal-energy-to-bitcoin-miners-in-kenya)
 - [Third Largest Russian Oil Company Gazpromneft Partners With Bitriver To Mine Bitcoin](https://bitcoinmagazine.com/business/gazpromneft-partners-with-bitriver-to-mine-bitcoin)
+- [Compass Mining Hosting Facility In Maine Terminates Agreement After Missed Energy Payments](https://twitter.com/dynamicsmining/status/1541262827096358912?s=12&t=X0G0MUtfoi8qErlv3SOlaA)
 
 # Optional Topics
 
