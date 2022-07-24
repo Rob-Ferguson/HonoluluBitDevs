@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic 13"
-meetup:
+meetup: https://www.meetup.com/honolulu-bitdevs/events/287219822/
 tags: bitdevs, bitcoin, resource
 ---
 
@@ -59,7 +59,7 @@ tags: bitdevs, bitcoin, resource
 
 - [D++'s Mining Simulator](https://dplusplus.me/nonce)
 - ["Guess the Nonce" Google Form](https://forms.gle/tSTb13ZkPyu5pTYY6)
-	- [Video explaining what a nonce is in relation to Bitcoin mining](https://youtu.be/6MgJCGb01jI)
+	- [Video explaining what a nonce is in relation to Bitcoin mining](https://youtu.be/6MgJCGb01jI?t=190)
 
 # Optional Topics
 
