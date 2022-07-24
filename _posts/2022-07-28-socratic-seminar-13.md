@@ -15,15 +15,13 @@ tags: bitdevs, bitcoin, resource
 - [Join Our Telegram Group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Donate Sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 
-
 # Bitcoin KPIs
 
 - [Clark Moody's Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 
-
 # Market/Adoption
 
-- [Three Charged In First Ever Cryptocurrency Insider Trading Tipping Scheme | Department of Justice](https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme)
+- [Three Charged In First Ever Cryptocurrency Insider Trading Tipping Scheme](https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme)
 	- [Former Coinbase Manager Arrested For Insider Trading](https://bitcoinmagazine.com/legal/former-coinbase-manager-arrested-for-insider-trading)
 - [Elon Musk's Tesla Sold 75% Of Its Bitcoin](https://bitcoinmagazine.com/business/breaking-elon-musks-tesla-sold-75-of-its-bitcoin)
 	- Conversions in Q2 added $936M of cash to balance sheet
@@ -33,7 +31,6 @@ tags: bitdevs, bitcoin, resource
 	- [Voyager Digital Files For Bankruptcy](https://bitcoinmagazine.com/business/voyager-digital-files-for-bankruptcy)
 	- [Celsius Files For Chapter 11 Bankruptcy With Over $1 Billion Hole In Balance Sheet](https://bitcoinmagazine.com/business/celsius-files-for-chapter-11-bankruptcy)
 	- [Three Arrows Capital Founders Speak Out After Company Implosion and Radio Silence](https://www.btctimes.com/news/three-arrows-capital-founders-speak-out-after-company-implosion-and-radio-silence)
-
 
 # Technology
 
@@ -48,7 +45,6 @@ tags: bitdevs, bitcoin, resource
 -  [TAPSIGNER integration is live within Nunchuk mobile app](https://twitter.com/nvk/status/1550894649845305345)
 	- Can now sign collaborative Bitcoin transactions by tapping a card to your phone
 
-
 # Mining
 
 - [Bitcoin Mining Council's Q2 Survey Confirms Year on Year Improvements in Sustainable Power Mix and Technological Efficiency](https://bitcoinminingcouncil.com/bitcoin-mining-electricity-mix-increased-to-59-5-sustainable-in-q2-2022/)
@@ -59,13 +55,11 @@ tags: bitdevs, bitcoin, resource
 - [Three Downward Difficulty Adjustments In A Row](https://bitcoinmagazine.com/technical/three-bitcoin-mining-downward-adjustments-in-a-row)
 	- [Hashrate & Difficulty - mempool](https://mempool.space/graphs/mining/hashrate-difficulty)
 
-
 # Coinkite Giveaway #1
 
 - [D++'s Mining Simulator](https://dplusplus.me/nonce)
 - ["Guess the Nonce" Google Form](https://forms.gle/tSTb13ZkPyu5pTYY6)
 	- [Video explaining what a nonce is in relation to Bitcoin mining](https://youtu.be/6MgJCGb01jI)
-
 
 # Optional Topics
 
