@@ -14,6 +14,7 @@ tags: bitdevs, bitcoin, resource
 - [Apply For A Bitcoin Job](https://bitcoinerjobs.com/)
 - [Join Our Telegram Group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Donate Sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
+- 1st Coinkite Giveaway Tonight
 
 # Bitcoin KPIs
 
@@ -23,6 +24,7 @@ tags: bitdevs, bitcoin, resource
 
 - [Three Charged In First Ever Cryptocurrency Insider Trading Tipping Scheme](https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme)
 	- [Former Coinbase Manager Arrested For Insider Trading](https://bitcoinmagazine.com/legal/former-coinbase-manager-arrested-for-insider-trading)
+	- [SEC Will Need to Prove Tokens Are Securities in Coinbase Insider-Trading Case](https://www.coindesk.com/layer2/2022/07/22/sec-will-need-to-prove-tokens-are-securities-in-coinbase-insider-trading-case-legal-expert-says/)
 - [Elon Musk's Tesla Sold 75% Of Its Bitcoin](https://bitcoinmagazine.com/business/breaking-elon-musks-tesla-sold-75-of-its-bitcoin)
 	- Conversions in Q2 added $936M of cash to balance sheet
 - [June CPI Inflation Data Sets 40-Year High Of 9.1% As Bitcoin Dips](https://bitcoinmagazine.com/markets/june-cpi-inflation-data-sets-40-year-high-as-bitcoin-dips)
@@ -35,14 +37,14 @@ tags: bitdevs, bitcoin, resource
 # Technology
 
 - [Gloria Zhao Becomes First Female Bitcoin Core Maintainer; Pieter Wuille Steps Down](https://bitcoinmagazine.com/technical/first-female-bitcoin-core-maintainer)
-- [Fedi: Wallet Powered by Fedimint](https://bitcoinmagazine.com/business/fedi-global-bitcoin-adoption-tech)
-	- [Fedimint is based on federated Chaumian mints/banks](https://fedimint.org/)
-	- [Pen-and-Paper Chaumian Mints](https://vimeo.com/731755923)
-- [Tether, Bitfinex and Hypercore Launch Holepunch, a Platform for Building Fully Encrypted Peer-to-Peer Applications](https://tether.to/en/tether-bitfinex-and-hypercore-launch-holepunch-a-platform-for-building-fully-encrypted-peer-to-peer-applications/)
+- [Fedi: Wallet Powered By Fedimint](https://bitcoinmagazine.com/business/fedi-global-bitcoin-adoption-tech)
+	- [Fedimint Is Based On Federated Chaumian Mints/Banks](https://fedimint.org/)
+	- [Pen-And-Paper Chaumian Mints](https://vimeo.com/731755923)
+- [Tether, Bitfinex And Hypercore Launch Holepunch, A Platform For Building Fully Encrypted Peer-To-Peer Applications](https://tether.to/en/tether-bitfinex-and-hypercore-launch-holepunch-a-platform-for-building-fully-encrypted-peer-to-peer-applications/)
 	- [Keet: First App Built With Holepunch Offering P2P Video Chat](https://twitter.com/paoloardoino/status/1551515523606888449)
 - [Magic Internet Money Book Leverages Mash Wallet For Pay-As-You-Go Lightning Integration](https://twitter.com/jayberjay/status/1551562864426614785)
 - [Blockstream Announces Draft BIP For Non-Interactive Half-Aggregation Of BIP 340 Schnorr Signatures](https://bitcoinmagazine.com/technical/blockstream-announces-progress-on-signature-aggregation)
-- [TAPSIGNER integration is live within Nunchuk mobile app](https://twitter.com/nvk/status/1550894649845305345)
+- [TAPSIGNER Integration Is Live Within Nunchuk Mobile App](https://twitter.com/nvk/status/1550894649845305345)
 	- Can now sign collaborative Bitcoin transactions by tapping a card to your phone
 - [Controversy Around BlueWallet's Push Notifications Feature Allowing Addresses/TXIDs To Be Leaked](https://github.com/BlueWallet/BlueWallet/issues/4806)
 	- Push notifications are disabled by default, and users can choose to run their own monitoring server (FOSS software GroundControl) if they want notifications without relying on BlueWallet
@@ -50,7 +52,7 @@ tags: bitdevs, bitcoin, resource
 
 # Mining
 
-- [Bitcoin Mining Council's Q2 Survey Confirms Year on Year Improvements in Sustainable Power Mix and Technological Efficiency](https://bitcoinminingcouncil.com/bitcoin-mining-electricity-mix-increased-to-59-5-sustainable-in-q2-2022/)
+- [Bitcoin Mining Council's Q2 Survey Confirms Improvements In Sustainable Power Mix And Technological Efficiency](https://bitcoinminingcouncil.com/bitcoin-mining-electricity-mix-increased-to-59-5-sustainable-in-q2-2022/)
 - [Public Miners Start Selling Bitcoin Treasuries](https://bitcoinmagazine.com/business/public-miners-start-selling-bitcoin-treasuries)
 	- Core Scientific sells 78.6% of its bitcoin holdings (7202 BTC)
 	- Bitfarms sold over 3000 BTC
@@ -61,16 +63,16 @@ tags: bitdevs, bitcoin, resource
 # Coinkite Giveaway #1
 
 - ["Guess the Nonce" Google Form](https://forms.gle/tSTb13ZkPyu5pTYY6)
-	- **Submit guesses ahead of time!**
+	- Submit guesses ahead of time!
 	- A specific block will be chosen at the meetup and its nonce will be compared to all submissions - closest guess wins
 	- [Video Explaining What A Nonce Is In Relation To Bitcoin Mining](https://youtu.be/6MgJCGb01jI?t=190)
 
 # Optional Topics
 
 - [Twitter Vulnerability Exposed Emails And Phone Numbers From 5.4 Million Accounts, Which Are Being Sold Online](https://restoreprivacy.com/twitter-vulnerability-exposes-5-million-accounts/)
-- [Joinstr: Coinjoin Implementation Using Nostr Protocol](https://gist.github.com/1440000bytes/1c305097b070c8374cc3b91f50314a45)
-	- [The Nostr Protocol](https://dev.to/melvincarvalho/the-nostr-protocol-nip01-5ach)
-- [Bullrun: An Open Protocol For P2P Services Powered By Bitcoin & Nostr](https://github.com/ArcadeCity/bullrun)
+- [The Nostr Protocol](https://dev.to/melvincarvalho/the-nostr-protocol-nip01-5ach)
+	- [Joinstr: Coinjoin Implementation Using Nostr Protocol](https://gist.github.com/1440000bytes/1c305097b070c8374cc3b91f50314a45)
+	- [Bullrun: An Open Protocol For P2P Services Powered By Bitcoin & Nostr](https://github.com/ArcadeCity/bullrun)
 - [pLN: New Wallet Project That Aims To Make Private Lightning Network Payments Easy](https://bitcoinmagazine.com/technical/pln-makes-bitcoin-lightning-more-private)
 - [Robinhood Enables Bitcoin Transfers](https://bitcoinmagazine.com/business/robinhood-enables-bitcoin-transfers)
 - [El Salvador Buys The Dip, Adds 80 BTC To Treasury](https://bitcoinmagazine.com/business/el-salvador-buys-the-dip-adds-80-btc-to-treasury)
