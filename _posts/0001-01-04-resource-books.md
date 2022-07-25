@@ -25,3 +25,5 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 - [21 Lessons by Gigi](https://21lessons.com/)
 - [The Little Bitcoin Book by Jimmy Song, Alex Gladstein, et al.](https://littlebitcoinbook.com/)
 - [The Sovereign Individual: Mastering the Transition to the Information Age by James Dale Davidson, et al.](https://www.amazon.com/The-Sovereign-Individual-audiobook/dp/B07TWNP9NB)
+- [Magic Internet Money: A Book About Bitcoin by Jesse Berger](https://magicbitcoinbook.com/)
+  - Read online and pay-as-you-go via Lightning Network

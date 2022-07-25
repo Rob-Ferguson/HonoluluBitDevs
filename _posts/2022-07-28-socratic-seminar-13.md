@@ -35,15 +35,18 @@ tags: bitdevs, bitcoin, resource
 # Technology
 
 - [Gloria Zhao Becomes First Female Bitcoin Core Maintainer; Pieter Wuille Steps Down](https://bitcoinmagazine.com/technical/first-female-bitcoin-core-maintainer)
-- [Announcing Fedi: Wallet Powered by Fedimint](https://bitcoinmagazine.com/business/fedi-global-bitcoin-adoption-tech)
+- [Fedi: Wallet Powered by Fedimint](https://bitcoinmagazine.com/business/fedi-global-bitcoin-adoption-tech)
 	- [Fedimint is based on federated Chaumian mints/banks](https://fedimint.org/)
 	- [Pen-and-Paper Chaumian Mints](https://vimeo.com/731755923)
-- [Controversy around BlueWallet's push notifications feature allowing addresses/txids to be leaked](https://github.com/BlueWallet/BlueWallet/issues/4806)
+- [Tether, Bitfinex and Hypercore Launch Holepunch, a Platform for Building Fully Encrypted Peer-to-Peer Applications](https://tether.to/en/tether-bitfinex-and-hypercore-launch-holepunch-a-platform-for-building-fully-encrypted-peer-to-peer-applications/)
+	- [Keet: First App Built With Holepunch Offering P2P Video Chat](https://twitter.com/paoloardoino/status/1551515523606888449)
+- [Magic Internet Money Book Leverages Mash Wallet For Pay-As-You-Go Lightning Integration](https://twitter.com/jayberjay/status/1551562864426614785)
+- [Blockstream Announces Draft BIP For Non-Interactive Half-Aggregation Of BIP 340 Schnorr Signatures](https://bitcoinmagazine.com/technical/blockstream-announces-progress-on-signature-aggregation)
+- [TAPSIGNER integration is live within Nunchuk mobile app](https://twitter.com/nvk/status/1550894649845305345)
+	- Can now sign collaborative Bitcoin transactions by tapping a card to your phone
+- [Controversy Around BlueWallet's Push Notifications Feature Allowing Addresses/TXIDs To Be Leaked](https://github.com/BlueWallet/BlueWallet/issues/4806)
 	- Push notifications are disabled by default, and users can choose to run their own monitoring server (FOSS software GroundControl) if they want notifications without relying on BlueWallet
 	- From [@nvcoelho](https://twitter.com/nvcoelho): "The data used in this feature is all public addresses. No xpubs are monitored."
-- [Blockstream announces draft BIP for non-interactive half-aggregation of BIP 340 Schnorr signatures](https://bitcoinmagazine.com/technical/blockstream-announces-progress-on-signature-aggregation)
--  [TAPSIGNER integration is live within Nunchuk mobile app](https://twitter.com/nvk/status/1550894649845305345)
-	- Can now sign collaborative Bitcoin transactions by tapping a card to your phone
 
 # Mining
 
@@ -53,23 +56,26 @@ tags: bitdevs, bitcoin, resource
 	- Bitfarms sold over 3000 BTC
 	- Riot Blockchain sold 300 BTC in June
 - [Three Downward Difficulty Adjustments In A Row](https://bitcoinmagazine.com/technical/three-bitcoin-mining-downward-adjustments-in-a-row)
-	- [Hashrate & Difficulty - mempool](https://mempool.space/graphs/mining/hashrate-difficulty)
+	- [Hashrate & Difficulty - mempool.space](https://mempool.space/graphs/mining/hashrate-difficulty)
 
 # Coinkite Giveaway #1
 
-- [D++'s Mining Simulator](https://dplusplus.me/nonce)
 - ["Guess the Nonce" Google Form](https://forms.gle/tSTb13ZkPyu5pTYY6)
-	- [Video explaining what a nonce is in relation to Bitcoin mining](https://youtu.be/6MgJCGb01jI?t=190)
+	- **Submit guesses ahead of time!**
+	- A specific block will be chosen at the meetup and its nonce will be compared to all submissions - closest guess wins
+	- [Video Explaining What A Nonce Is In Relation To Bitcoin Mining](https://youtu.be/6MgJCGb01jI?t=190)
 
 # Optional Topics
 
-- [Joinstr: Coinjoin implementation using nostr protocol](https://gist.github.com/1440000bytes/1c305097b070c8374cc3b91f50314a45)
+- [Twitter Vulnerability Exposed Emails And Phone Numbers From 5.4 Million Accounts, Which Are Being Sold Online](https://restoreprivacy.com/twitter-vulnerability-exposes-5-million-accounts/)
+- [Joinstr: Coinjoin Implementation Using Nostr Protocol](https://gist.github.com/1440000bytes/1c305097b070c8374cc3b91f50314a45)
 	- [The Nostr Protocol](https://dev.to/melvincarvalho/the-nostr-protocol-nip01-5ach)
+- [Bullrun: An Open Protocol For P2P Services Powered By Bitcoin & Nostr](https://github.com/ArcadeCity/bullrun)
+- [pLN: New Wallet Project That Aims To Make Private Lightning Network Payments Easy](https://bitcoinmagazine.com/technical/pln-makes-bitcoin-lightning-more-private)
 - [Robinhood Enables Bitcoin Transfers](https://bitcoinmagazine.com/business/robinhood-enables-bitcoin-transfers)
 - [El Salvador Buys The Dip, Adds 80 BTC To Treasury](https://bitcoinmagazine.com/business/el-salvador-buys-the-dip-adds-80-btc-to-treasury)
 - [OpenNode Partners With Lemon Cash To Enable Bitcoin Lightning Payments](https://bitcoinmagazine.com/business/opennode-partners-with-lemon-cash-to-enable-bitcoin-lightning-payments)
 - [MicroStrategy Purchased An Additional 480 Bitcoin](https://bitcoinmagazine.com/business/michael-saylor-announces-480-bitcoin-buy-for-microstrategy)
 - [Nubank, Brazil's Largest Bank, Brings Bitcoin Purchases To ~54 Million Customers](https://bitcoinmagazine.com/business/nubank-rolls-out-bitcoin-buying-in-brazil)
-- [Bullrun: An open protocol for P2P services powered by Bitcoin & Nostr](https://github.com/ArcadeCity/bullrun)
 - [ZEBEDEE Raises $35 Million For Bitcoin Gaming](https://bitcoinmagazine.com/business/zebedee-raises-35-million-for-bitcoin-gaming)
 	- Doesn't operate in HI
