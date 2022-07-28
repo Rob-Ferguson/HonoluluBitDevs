@@ -13,6 +13,7 @@ tags: bitdevs, bitcoin, resource
 - [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Apply For A Bitcoin Job](https://bitcoinerjobs.com/)
 - [Join Our Telegram Group](https://t.me/+Uh9gbHO9EHFkZWJh)
+- [Follow Us On Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
 - [Donate Sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - 1st Coinkite Giveaway Tonight
 
@@ -24,7 +25,7 @@ tags: bitdevs, bitcoin, resource
 
 - [Three Charged In First Ever Cryptocurrency Insider Trading Tipping Scheme](https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme)
 	- [Former Coinbase Manager Arrested For Insider Trading](https://bitcoinmagazine.com/legal/former-coinbase-manager-arrested-for-insider-trading)
-	- [SEC Will Need to Prove Tokens Are Securities in Coinbase Insider-Trading Case](https://www.coindesk.com/layer2/2022/07/22/sec-will-need-to-prove-tokens-are-securities-in-coinbase-insider-trading-case-legal-expert-says/)
+	- [SEC Will Need to Prove Tokens Are Securities In Coinbase Insider-Trading Case](https://www.coindesk.com/layer2/2022/07/22/sec-will-need-to-prove-tokens-are-securities-in-coinbase-insider-trading-case-legal-expert-says/)
 - [Elon Musk's Tesla Sold 75% Of Its Bitcoin](https://bitcoinmagazine.com/business/breaking-elon-musks-tesla-sold-75-of-its-bitcoin)
 	- Conversions in Q2 added $936M of cash to balance sheet
 - [June CPI Inflation Data Sets 40-Year High Of 9.1% As Bitcoin Dips](https://bitcoinmagazine.com/markets/june-cpi-inflation-data-sets-40-year-high-as-bitcoin-dips)
@@ -41,13 +42,13 @@ tags: bitdevs, bitcoin, resource
 	- [Fedimint Is Based On Federated Chaumian Mints/Banks](https://fedimint.org/)
 	- [Pen-And-Paper Chaumian Mints](https://vimeo.com/731755923)
 - [Tether, Bitfinex And Hypercore Launch Holepunch, A Platform For Building Fully Encrypted Peer-To-Peer Applications](https://tether.to/en/tether-bitfinex-and-hypercore-launch-holepunch-a-platform-for-building-fully-encrypted-peer-to-peer-applications/)
-	- [Keet: First App Built With Holepunch Offering P2P Video Chat](https://twitter.com/paoloardoino/status/1551515523606888449)
+	- [Keet: First App Built With Holepunch Offering P2P Video Chat](https://bitcoinmagazine.com/technical/keet-the-decentralized-communications-app)
 - [Magic Internet Money Book Leverages Mash Wallet For Pay-As-You-Go Lightning Integration](https://twitter.com/jayberjay/status/1551562864426614785)
 - [Blockstream Announces Draft BIP For Non-Interactive Half-Aggregation Of BIP 340 Schnorr Signatures](https://bitcoinmagazine.com/technical/blockstream-announces-progress-on-signature-aggregation)
 - [TAPSIGNER Integration Is Live Within Nunchuk Mobile App](https://twitter.com/nvk/status/1550894649845305345)
 	- Can now sign collaborative Bitcoin transactions by tapping a card to your phone
 - [Controversy Around BlueWallet's Push Notifications Feature Allowing Addresses/TXIDs To Be Leaked](https://github.com/BlueWallet/BlueWallet/issues/4806)
-	- Push notifications are disabled by default, and users can choose to run their own monitoring server (FOSS software GroundControl) if they want notifications without relying on BlueWallet
+	- Push notifications are disabled by default, and users can choose to run their own monitoring server (FOSS software [GroundControl](https://github.com/BlueWallet/GroundControl)) if they want notifications without relying on BlueWallet
 	- From [@nvcoelho](https://twitter.com/nvcoelho): "The data used in this feature is all public addresses. No xpubs are monitored."
 
 # Mining
@@ -69,6 +70,7 @@ tags: bitdevs, bitcoin, resource
 
 # Optional Topics
 
+- [Senate Bill To Exempt Tax On Small Bitcoin Transactions](https://bitcoinmagazine.com/legal/senate-bill-to-exempt-tax-on-small-bitcoin-transactions)
 - [Twitter Vulnerability Exposed Emails And Phone Numbers From 5.4 Million Accounts, Which Are Being Sold Online](https://restoreprivacy.com/twitter-vulnerability-exposes-5-million-accounts/)
 - [The Nostr Protocol](https://dev.to/melvincarvalho/the-nostr-protocol-nip01-5ach)
 	- [Joinstr: Coinjoin Implementation Using Nostr Protocol](https://gist.github.com/1440000bytes/1c305097b070c8374cc3b91f50314a45)
