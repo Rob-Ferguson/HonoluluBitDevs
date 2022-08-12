@@ -64,7 +64,7 @@ tags: bitdevs, bitcoin, resource
 # Coinkite Giveaway #1
 
 - ["Guess the Nonce" Google Form](https://forms.gle/tSTb13ZkPyu5pTYY6)
-	- Submit guesses ahead of time!
+	- Submit guesses ahead of time (only if you plan on attending the meetup)!
 	- A specific block will be chosen at the meetup and its nonce will be compared to all submissions - closest guess wins
 	- [Video Explaining What A Nonce Is In Relation To Bitcoin Mining](https://youtu.be/6MgJCGb01jI?t=190)
 
