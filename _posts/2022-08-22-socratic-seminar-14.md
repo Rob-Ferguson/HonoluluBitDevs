@@ -35,14 +35,15 @@ tags: bitdevs, socratic-14, bitcoin, resource
 	- [BlackRock launches spot Bitcoin private trust](https://bitcoinmagazine.com/markets/blackrock-launches-spot-bitcoin-private-trust)
 - [U.S. inflation only 8.5% in July](https://bitcoinmagazine.com/markets/u-s-inflation-slowed-to-8-5-in-july-bitcoin-jumps)
 - [Motiv launches 16 Bitcoin economies in Peru](https://bitcoinmagazine.com/business/motiv-launches-16-bitcoin-economies-in-peru)
-- [Vinteum non-profit launches to fund Bitcoin developers in Brazil, Latin America](https://bitcoinmagazine.com/business/vinteum-to-fund-bitcoin-developers-in-brazil)
+- [Vinteum non-profit launches to fund Bitcoin developers in Brazil/Latin America](https://bitcoinmagazine.com/business/vinteum-to-fund-bitcoin-developers-in-brazil)
+- [River introduces zero-fee recurring Bitcoin purchases](https://blog.river.com/announcing-zero-fee-recurring-orders-2/)
 
 # Technology
 
 - [Bitcoin Independence Day](https://bitcoinmagazine.com/culture/luke-dashjr-segwit-bitcoin-independence-day)
 - [Bitcoin without internet: SMS service allows sending BTC with a text](https://cointelegraph.com/news/bitcoin-without-internet-sms-service-allows-sending-btc-with-a-text)
 - [Block releases blog post about their approach to multisig key management](https://wallet.build/losing-your-keys-without-losing-your-coins/)
-- [Galoy brings synthetic USD To Bitcoin](https://bitcoinmagazine.com/technical/galoy-brings-us-dollars-to-bitcoin)
+- [Galoy brings synthetic USD to Bitcoin](https://bitcoinmagazine.com/technical/galoy-brings-us-dollars-to-bitcoin)
 	- [Stablesats](https://stablesats.com/) is able to offer a stable dollar balance backed by bitcoin through [inverse perpetual swaps](https://www.bitmex.com/app/inversePerpetualsGuide).
 
 # Mining
@@ -52,7 +53,9 @@ tags: bitdevs, socratic-14, bitcoin, resource
 
 # Optional Topics
 
+- [OpenSats introduces Legal Defense Fund to defend open source Bitcoin contributors](https://opensats.org/projects/opensats_legal_defense)
 - [Bitcoin Policy Institute's response to the US Treasury's request for comment on responsible digital asset development](https://uploads-ssl.webflow.com/627aa615676bdd1d47ec97d4/62f1737c38e3e4ea452021b9_Bitcoin%20Policy%20Institute%20-%20US%20Department%20of%20Treasury%20RFC.pdf)
+- [Beautyon's thoughts on the Lummis-Gillibrand Responsible Financial Innovation Act](https://bitcoinmagazine.com/legal/unpacking-and-analyzing-the-lummis-gillibrand-bill)
 - [Lyn Alden's "A Look At the Lightning Network"](https://www.swanbitcoin.com/a-look-at-the-lightning-network/)
 - [LATAM’s largest investment bank BTG Pactual launches Bitcoin/crypto exchange](https://bitcoinmagazine.com/business/btg-pactual-launches-bitcoin-crypto-exchange-in-brazil)
 - [Tropic Square launches open source chip prototype for Bitcoin hardware](https://bitcoinmagazine.com/business/tropic-square-launches-open-source-chip-prototype-for-bitcoin-hardware)
