@@ -56,6 +56,7 @@ tags: bitdevs, socratic-14, bitcoin, resource
 - [OpenSats introduces Legal Defense Fund to defend open source Bitcoin contributors](https://opensats.org/projects/opensats_legal_defense)
 - [Bitcoin Policy Institute's response to the US Treasury's request for comment on responsible digital asset development](https://uploads-ssl.webflow.com/627aa615676bdd1d47ec97d4/62f1737c38e3e4ea452021b9_Bitcoin%20Policy%20Institute%20-%20US%20Department%20of%20Treasury%20RFC.pdf)
 - [Beautyon's thoughts on the Lummis-Gillibrand Responsible Financial Innovation Act](https://bitcoinmagazine.com/legal/unpacking-and-analyzing-the-lummis-gillibrand-bill)
+- [Widespread malware attack on Github (> 35k repositories affected)](https://twitter.com/stephenlacy/status/1554697077430505473)
 - [Lyn Alden's "A Look At the Lightning Network"](https://www.swanbitcoin.com/a-look-at-the-lightning-network/)
 - [LATAM’s largest investment bank BTG Pactual launches Bitcoin/crypto exchange](https://bitcoinmagazine.com/business/btg-pactual-launches-bitcoin-crypto-exchange-in-brazil)
 - [Tropic Square launches open source chip prototype for Bitcoin hardware](https://bitcoinmagazine.com/business/tropic-square-launches-open-source-chip-prototype-for-bitcoin-hardware)
