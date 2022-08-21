@@ -15,7 +15,7 @@ tags: bitdevs, socratic-14, bitcoin, resource
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
 - [Donate sats](https://honolulubitdevs.com/donate)
-- Entrepreneur's Sandbox sponsorship + venue change
+- [Entrepreneurs Sandbox sponsorship + permanent venue change](https://sandboxhawaii.org/)
 
 # Bitcoin KPIs
 
@@ -31,7 +31,7 @@ tags: bitdevs, socratic-14, bitcoin, resource
 - [FDIC issues cease and desist letters to five crypto companies about false/misleading claims about deposit insurance](https://content.govdelivery.com/accounts/USFDIC/bulletins/328cfe1)
 -	[Defending BTC telethon fundraiser on 8/26 for hodlonaut's legal defense](https://www.defendingbtc.com/)
 	- [Timeline of the legal battle between hodlonaut and Faketoshi](https://bitcoinmagazine.com/culture/timeline-of-hodlonaut-craig-wright-case)
-	- [Greg Maxwell's response/context](https://www.reddit.com/r/Bitcoin/comments/ws8wfd/starting_september_12th_in_oslo_norway_hodlonaut/ikxqxoo)
+	- [Greg Maxwell's response/context about why this case matters](https://www.reddit.com/r/Bitcoin/comments/ws8wfd/starting_september_12th_in_oslo_norway_hodlonaut/ikxqxoo)
 	- [OpenSats introduces Legal Defense Fund to defend open source Bitcoin contributors](https://opensats.org/projects/opensats_legal_defense)
 - [Victorian police to get ‘greater power’ to seize crypto assets from criminals](https://cointelegraph.com/news/victorian-police-to-get-greater-power-to-seize-crypto-assets-from-criminals)
 
@@ -48,6 +48,7 @@ tags: bitdevs, socratic-14, bitcoin, resource
 # Technology
 
 - [Bitcoin Independence Day on 8/1](https://bitcoinmagazine.com/culture/luke-dashjr-segwit-bitcoin-independence-day)
+	- ["The History Of Bitcoin Independence Day" video by Bitcoin Magazine](https://youtu.be/ui9JwnB1d-k)
 - [Bitcoin without internet: SMS service allows sending BTC with a text](https://cointelegraph.com/news/bitcoin-without-internet-sms-service-allows-sending-btc-with-a-text)
 - [Galoy brings synthetic USD to Bitcoin](https://bitcoinmagazine.com/technical/galoy-brings-us-dollars-to-bitcoin)
 	- [Stablesats](https://stablesats.com/) is able to offer a stable dollar balance backed by bitcoin through [inverse perpetual swaps](https://www.bitmex.com/app/inversePerpetualsGuide).
