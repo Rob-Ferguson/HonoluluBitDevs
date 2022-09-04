@@ -22,4 +22,15 @@
       }
     }
   }
+
+  &-sponsors {
+    display: flex;
+    justify-content: space-around;
+
+    a {
+      &:hover {
+        opacity: 0.75;
+      }
+    }
+  }
 }
