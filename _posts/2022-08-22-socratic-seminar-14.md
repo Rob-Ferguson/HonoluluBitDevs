@@ -58,6 +58,7 @@ tags: bitdevs, socratic-14, bitcoin, resource
 - [Foundry makes BTC donation to open source Stratum V2 protocol developer to improve Bitcoin's proof-of-work mining layer](https://www.prnewswire.com/news-releases/foundry-makes-btc-donation-to-open-source-stratum-v2-protocol-developer-to-improve-bitcoins-proof-of-work-mining-layer-301598747.html)
 
 # Optional Topics
+
 - [Bitcoin Infinity Day on 8/21](https://bitcoinmagazine.com/culture/the-bitcoin-infinity-day-public-private-keys)
 - [Bitcoin Policy Institute's response to the US Treasury's request for comment on responsible digital asset development](https://uploads-ssl.webflow.com/627aa615676bdd1d47ec97d4/62f1737c38e3e4ea452021b9_Bitcoin%20Policy%20Institute%20-%20US%20Department%20of%20Treasury%20RFC.pdf)
 - [Beautyon's thoughts on the Lummis-Gillibrand Responsible Financial Innovation Act](https://bitcoinmagazine.com/legal/unpacking-and-analyzing-the-lummis-gillibrand-bill)
