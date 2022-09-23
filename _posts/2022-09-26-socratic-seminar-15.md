@@ -61,7 +61,7 @@ tags: bitdevs, socratic-15, bitcoin, resource
 
 # Coinkite Giveaway #2
 
-- ["Guess the Nonce" Google Form](https://docs.google.com/forms/d/143nxGH6vF-UcmrkXLGXWkzdse_kesPmKXRTo1Jvpmxc/edit#responses)
+- ["Guess the Nonce" Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4qs7PvXUVBol5NDkOVG1K3LnvZIfuwweRVZri1QY3_D2GzQ/viewform?usp=sharing)
 	- Submit guesses ahead of time (only if you plan on attending the meetup)!
 	- A specific block will be chosen at the meetup and its nonce will be compared to all submissions - closest guess wins
 	- [Video explaining what a nonce is in relation to bitcoin mining](https://youtu.be/6MgJCGb01jI?t=190)
