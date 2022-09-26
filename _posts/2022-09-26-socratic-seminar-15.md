@@ -17,7 +17,6 @@ tags: bitdevs, socratic-15, bitcoin, resource
 - [Donate sats](https://honolulubitdevs.com/donate)
 - Sponsor shoutout
 
-
 # Bitcoin KPIs
 
 - [Clark Moody's Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
@@ -28,14 +27,17 @@ tags: bitdevs, socratic-15, bitcoin, resource
 	- [El Salvador Bitcoin one year later](https://bitcoinmagazine.com/culture/el-salvador-bitcoin-one-year-later)
 	- [What El Salvador's Bitcoin law brought](https://bitcoinmagazine.com/el-salvador-bitcoin-news/what-el-salvadors-bitcoin-law-brought)
 	- [President Bukele's speech to the United Nations](https://twitter.com/nayibbukele/status/1572708305876705285)
-- [White House Office of Science and Technology Policy (OSTP) conducted a study into the climate impacts of crypto mining](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf)
-	- [White House condemns energy use of mining Bitcoin](https://bitcoinmagazine.com/business/white-house-condemns-energy-use-of-mining-bitcoin)
-	- [Nic Carter's response](https://medium.com/@nic__carter/comments-on-the-white-house-report-on-the-climate-implications-of-crypto-mining-8d65d30ec942)
-- [White House releases digital asset regulatory framework](https://bitcoinmagazine.com/legal/-white-house-releases-digital-asset-regulatory-framework)
+- [Consequences of Biden's Executive Order 14067 (March 2022)](https://bitcoinmagazine.com/markets/biden-signs-bitcoin-executive-order-taps-cbdc)
+	- E.O. 14067, named “Ensuring Responsible Development of Digital Assets”, called on government agencies to produce varying forms of research regarding consumer privacy and protection, energy usage, and central bank digital currency (CBDC) benefits and risks.
+	- [White House Office of Science and Technology Policy (OSTP) conducted a study into the climate impacts of crypto mining](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf)
+		- [Nic Carter's response](https://medium.com/@nic__carter/comments-on-the-white-house-report-on-the-climate-implications-of-crypto-mining-8d65d30ec942)
+	- [White House releases regulatory framework for the "responsible" development of digital assets](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/)
+	- [White House Office of Science and Technology Policy (OSTP) releases a technical evaluation for a U.S. Central Bank Digital Currency system](https://www.whitehouse.gov/ostp/news-updates/2022/09/16/technical-possibilities-for-a-u-s-central-bank-digital-currency/)
 - [U.S. Department of the Treasury releases additional guidance on tornado cash sanctions](https://home.treasury.gov/policy-issues/financial-sanctions/faqs/added/2022-09-13)
 - [Hodlonaut vs. Craig Wright trial in Norway](https://www.youtube.com/watch?v=J61AZicP4eY&list=PLe0djdakvnFZC4us272mEx03WNuyZxGea)
+	- [Context/background resources from DefendingBTC](https://www.defendingbtc.com/)
 - [Russian central bank and Ministry of Finance agree on draft bill allowing Bitcoin/crypto for international trade](https://bitcoinmagazine.com/markets/russian-central-bank-and-ministry-of-finance-agree-on-bitcoin-crypto-bill)
-- [Iran greenlights Bitcoin, crypto payments for imports](https://bitcoinmagazine.com/legal/iran-greenlights-bitcoin-crypto-payments-for-imports)
+- [Iran greenlights Bitcoin/crypto payments for imports](https://bitcoinmagazine.com/legal/iran-greenlights-bitcoin-crypto-payments-for-imports)
 
 # Market/Adoption
 
@@ -49,19 +51,21 @@ tags: bitdevs, socratic-15, bitcoin, resource
 - [Linux Foundation announces an intent to form the OpenWallet foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation)
 - [NYDIG releases "Developers of Bitcoin" - paper on Bitcoin's technical development and open-source contributors over time](https://nydig.com/research/developers-of-bitcoin)
 - [Riot and Blockware release Bitcoin transaction fee research report](https://blockwaresolutions.com/s/Bitcoin-Transaction-Fees-Final-Draft.pdf)
+- [Public Fedimint instance launched on signet](https://bitcoinmagazine.com/technical/public-fedimint-testnet-launched-on-signet)
 - [RoninDojo announces Bokuto node](https://ronindojo.io/en/bokuto)
+	- [RoninDojo Node comparison guide](https://ronindojo.io/en/nodes-overview)
 - [Spiral is a privacy-preserving block explorer](https://btc.usespiral.com/)
-- [Validating Lightning Signer (VLS) separates keys from nodes](https://bitcoinmagazine.com/technical/validating-lightning-signer-separates-nodes-keys)
+- [Validating Lightning Signer (VLS) separates keys from nodes](https://tftc.io/martys-bent/issue-1264-dont-underestimate-human-creativity/)
 
 # Mining
 
-- [Major Bitcoin mining pool with 10% of hash rate, 'Poolin', freezes withdrawals](https://www.nobsbitcoin.com/major-bitcoin-mining-pool-with-10-of-hash-rate-poolin-appears-to-be-insolvent-withdrawals-have-been-frozen/)
-	- [Bitcoin mining pool Poolin will issue 'IOU' tokens after suspending withdrawals](https://www.coindesk.com/business/2022/09/13/bitcoin-miner-poolin-to-issue-iou-tokens-after-suspending-withdrawals/)
-- ["Was Satoshi a Greedy Miner?" by Jameson Lopp](https://www.nobsbitcoin.com/satoshi-mining-analysis/)
+- [Major Bitcoin mining pool with 10% of hash rate, Poolin, freezes withdrawals](https://www.nobsbitcoin.com/major-bitcoin-mining-pool-with-10-of-hash-rate-poolin-appears-to-be-insolvent-withdrawals-have-been-frozen/)
+	- [Poolin will issue IOU tokens after suspending withdrawals](https://www.coindesk.com/business/2022/09/13/bitcoin-miner-poolin-to-issue-iou-tokens-after-suspending-withdrawals/)
+- ["Was Satoshi a Greedy Miner?" by Jameson Lopp](https://blog.lopp.net/was-satoshi-a-greedy-miner/)
 
 # Coinkite Giveaway #2
 
-- ["Guess the Nonce" Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4qs7PvXUVBol5NDkOVG1K3LnvZIfuwweRVZri1QY3_D2GzQ/viewform?usp=sharing)
+- #### ["Guess the Nonce" Google Form](https://docs.google.com/forms/d/143nxGH6vF-UcmrkXLGXWkzdse_kesPmKXRTo1Jvpmxc/edit#responses)
 	- Submit guesses ahead of time (only if you plan on attending the meetup)!
 	- A specific block will be chosen at the meetup and its nonce will be compared to all submissions - closest guess wins
 	- [Video explaining what a nonce is in relation to bitcoin mining](https://youtu.be/6MgJCGb01jI?t=190)
@@ -82,6 +86,8 @@ tags: bitdevs, socratic-15, bitcoin, resource
 	- [Coinbase faces class action for crashing during volatility, listing securities](https://www.theblock.co/post/165003/coinbase-faces-class-action-for-crashing-during-volatility-listing-securities)
 	- [Brother of ex-Coinbase manager pleads guilty to insider trading charge](https://www.channelnewsasia.com/business/brother-ex-coinbase-manager-pleads-guilty-insider-trading-charge-2933991)
 	- [Coinbase funding lawsuit against Treasury department](https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8?gi=248cf3e6ee23)
+- [Bitcoin mining hosting provider Compute North has filed for chapter 11 bankruptcy protection in a federal court](https://www.nobsbitcoin.com/compute-north-bankruptcy/)
+- [Nigeria to establish special economic zone for Bitcoin/crypto](https://bitcoinmagazine.com/business/nigeria-binance-partner-for-economic-zone-in-west-africa)
 - [Australian federal police forms cryptocurrency unit focused on tracking and seizing funds](https://www.nobsbitcoin.com/australian-federal-police-forms-cryptocurrency-unit-focused-on-tracking-and-seizing-funds/)
 - [Doctor Bitcoin jailed for selling P2P sats](https://bitcoinmagazine.com/culture/doctor-bitcoin-jailed-for-selling)
 - [U.S. recovers over $30 million in cryptocurrency stolen by North Korean hackers](https://www.nobsbitcoin.com/u-s-recovers-over-30-million-in-cryptocurrency-stolen-by-north-korean-hackers/)
@@ -95,3 +101,4 @@ tags: bitdevs, socratic-15, bitcoin, resource
 - [Trezor Suite v22.9.3 adds coin control](https://www.nobsbitcoin.com/trezor-suite-v2293/)
 - [BIPBounty: Tax deductible bug bounties for Bitcoin](https://www.nobsbitcoin.com/bipbounty-tax-deductible-bug-bounties-for-bitcoin/)
 - [Credible Confessions: A webapp for writing credible, anonymized information](https://github.com/DavidVorick/CredibleConfessions)
+- [Alby releases wallet API](https://blog.getalby.com/introducing-the-alby-wallet-api/)
