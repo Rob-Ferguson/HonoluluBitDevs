@@ -21,3 +21,4 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
   - Easy self-custody guide for beginners
 - [Bitcoiner Guide by Bitcoin Q+A](https://bitcoiner.guide/)
   - Large collection of guides for Bitcoin-related activities
+- [Bitcoin Rocks](https://bitcoin.rocks/)
