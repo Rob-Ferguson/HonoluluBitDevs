@@ -27,6 +27,7 @@ tags: bitdevs, socratic-16, bitcoin, resource
 	- Several resulting reports were already discussed last month at [Socratic 15](https://www.honolulubitdevs.com/2022-09-26-socratic-seminar-15)
 	- New report: [Financial stability oversight council releases report on digital asset financial stability risks and regulation](https://home.treasury.gov/news/press-releases/jy0986)
 - [EU agrees on text of landmark Bitcoin/crypto bill (MiCA)](https://bitcoinmagazine.com/legal/eu-agrees-on-crypto-mica-bill-text)
+- [Hodlonaut wins defamation case against Craig Wright in Norway](https://bitcoinmagazine.com/legal/hodlonaut-wins-defamation-case-against-craig-wright)
 - [Arrested Tornado Cash developer to stay in jail after appeal rejected](https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected)
 
 # Market/Adoption
@@ -54,7 +55,6 @@ tags: bitdevs, socratic-16, bitcoin, resource
 	- "Verify Bitcoin's Chain State in an Instant"
 - [LNsploit: A LN exploit testing tool](https://stacker.news/items/80134)
 - [Lisa Neigut's Lightning-Dev mailing list post about fee ratecards](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
-- [Indra: Lightning powered distributed virtual private network with Bitcoin and Lightning integration.](https://github.com/Indra-Labs/indra)
 
 # Mining
 
@@ -76,6 +76,7 @@ tags: bitdevs, socratic-16, bitcoin, resource
 - [Muun wallet objects to opt-in full-RBF support in the Bitcoin Core 24.0 release candidate](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html)
 - [Experimental BOLT12 support in LND](https://github.com/carlaKC/boltnd)
 - [Taproot and FROST improve Bitcoin privacy](https://bitcoinmagazine.com/technical/taproot-and-frost-improve-bitcoin-privacy)
+- [Indra: Lightning powered distributed virtual private network with Bitcoin and Lightning integration.](https://github.com/Indra-Labs/indra)
 - [US bill to let 401(k) plans invest in Bitcoin/crypto](https://bitcoinmagazine.com/legal/us-bill-to-let-401-k-plans-invest-in-bitcoin-crypto)
 - [supertestnet's `bitcoin-lottery-contract`: A lottery in bitcoin script with no escrow](https://github.com/supertestnet/bitcoin-lottery-contract)
 - ["Cryptographic Oracle-Based Conditional Payments" presentation by Lloyd Fournier](https://www.youtube.com/watch?v=hCjbStBKCEQ)
