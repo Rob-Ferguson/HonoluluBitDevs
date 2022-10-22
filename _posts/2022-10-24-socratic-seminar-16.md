@@ -49,10 +49,12 @@ tags: bitdevs, socratic-16, bitcoin, resource
 	- [River also released a report on LN insights](https://river.com/learn/files/river-lightning-report.pdf)
 - [Impervious P2P, Lightning-enabled browser launches for public use](https://newsletter.impervious.ai/impervious-ai-releases-the-highly-anticipated-impervious-browser/)
 - [Erlay support signaling merged into Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/23443)
+- [Utreexo](https://dci.mit.edu/utreexo)
+	- [BitMEX renews Calvin Kim’s Bitcoin Developer Grant to work on Utreexo](https://blog.bitmex.com/renewal-of-calvin-kims-bitcoin-developer-grant-3/)
+	- [ZeroSync Utreexo implementation also in development](https://www.nobsbitcoin.com/zerosync-utreexo/)
+		- "Verify Bitcoin's Chain State in an Instant"
 - [John Light releases report on "Validity Rollups on Bitcoin"](https://bitcoinrollups.org/)
 	- [Tweet thread from John](https://twitter.com/lightcoin/status/1579856946781298688)
-- [ZeroSync Utreexo implementation in development](https://www.nobsbitcoin.com/zerosync-utreexo/)
-	- "Verify Bitcoin's Chain State in an Instant"
 - [LNsploit: A LN exploit testing tool](https://stacker.news/items/80134)
 - [Lisa Neigut's Lightning-Dev mailing list post about fee ratecards](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
 
@@ -72,9 +74,11 @@ tags: bitdevs, socratic-16, bitcoin, resource
 - Conferences this month
 	- [TABConf in Atlanta](https://2022.tabconf.com/)
 	- [Bitcoin Conference Amsterdam](https://b.tc/conference/amsterdam)
+	- [Bitcoin Collective in Edinburgh](https://bitcoincollective.co.uk/)
 	- [Plan B Forum in Lugano, Switzerland](https://planb.lugano.ch/planb-forum/) (upcoming)
 - [Muun wallet objects to opt-in full-RBF support in the Bitcoin Core 24.0 release candidate](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html)
 - [Experimental BOLT12 support in LND](https://github.com/carlaKC/boltnd)
+- [Nostr integration in the Alby browser extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
 - [Taproot and FROST improve Bitcoin privacy](https://bitcoinmagazine.com/technical/taproot-and-frost-improve-bitcoin-privacy)
 - [Indra: Lightning powered distributed virtual private network with Bitcoin and Lightning integration.](https://github.com/Indra-Labs/indra)
 - [US bill to let 401(k) plans invest in Bitcoin/crypto](https://bitcoinmagazine.com/legal/us-bill-to-let-401-k-plans-invest-in-bitcoin-crypto)
