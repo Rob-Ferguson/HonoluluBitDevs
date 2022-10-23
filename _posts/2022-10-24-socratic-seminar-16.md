@@ -25,7 +25,7 @@ tags: bitdevs, socratic-16, bitcoin, resource
 - [More consequences of Biden's Executive Order 14067 (March 2022)](https://bitcoinmagazine.com/markets/biden-signs-bitcoin-executive-order-taps-cbdc)
 	- E.O. 14067, AKA [“Ensuring Responsible Development of Digital Assets”](https://bitcoinmagazine.com/markets/biden-signs-bitcoin-executive-order-taps-cbdc), called on government agencies to produce varying forms of research regarding consumer privacy and protection, energy usage, and central bank digital currency (CBDC) benefits and risks.
 	- Several resulting reports were already discussed last month at [Socratic 15](https://www.honolulubitdevs.com/2022-09-26-socratic-seminar-15)
-	- New report: [Financial stability oversight council releases report on digital asset financial stability risks and regulation](https://home.treasury.gov/news/press-releases/jy0986)
+	- New report: [Financial Stability Oversight Council (FSOC) releases report on digital asset financial stability risks and regulatory recommendations](https://home.treasury.gov/news/press-releases/jy0986)
 - [EU agrees on text of landmark Bitcoin/crypto bill (MiCA)](https://bitcoinmagazine.com/legal/eu-agrees-on-crypto-mica-bill-text)
 - [Hodlonaut wins defamation case against Craig Wright in Norway](https://bitcoinmagazine.com/legal/hodlonaut-wins-defamation-case-against-craig-wright)
 - [Russia to allow international trade in Bitcoin/crypto for any industry](https://www.zerohedge.com/crypto/russia-allow-international-trade-bitcoin-crypto-any-industry-report)
@@ -37,9 +37,8 @@ tags: bitdevs, socratic-16, bitcoin, resource
 
 - [Celsius disclosed names and transaction history of all users during bankruptcy](https://www.nobsbitcoin.com/celsius-doxxes-all-users/)
 	- Any wallet that interacted with Celsius is now publicly linked to government ID
-- [Swan Bitcoin Acquires Specter Solutions](https://bitcoinmagazine.com/business/swan-bitcoin-acquires-specter-solutions)
+- [Financial Accounting Standards Board (FASB) settles on fair-value accounting for measuring crypto assets](https://www.wsj.com/articles/fasb-settles-on-fair-value-accounting-for-measuring-crypto-assets-11665614205)
 - [Strike closes $80 million funding round](https://bitcoinmagazine.com/business/bitcoin-payment-provider-strike-raises-80-million)
-- [FASB settles on fair-value accounting for measuring crypto assets](https://www.wsj.com/articles/fasb-settles-on-fair-value-accounting-for-measuring-crypto-assets-11665614205)
 
 # Technology
 
@@ -81,6 +80,7 @@ tags: bitdevs, socratic-16, bitcoin, resource
 -	[EU expands Russian sanctions to include all crypto-asset wallets, accounts, or custody services, irrespective of the amount of the wallet](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_5989)
 	- Previously under €10,000 worth was allowed
 - [McDonald’s and other businesses now accept Bitcoin in Lugano, Switzerland](https://bitcoinmagazine.com/business/mcdonalds-accepts-bitcoin-payments-in-lugano-switzerland)
+- [Swan Bitcoin acquires Specter Solutions](https://bitcoinmagazine.com/business/swan-bitcoin-acquires-specter-solutions)
 - [Experimental BOLT12 support in LND](https://github.com/carlaKC/boltnd)
 - [Muun wallet objects to opt-in full-RBF support in the Bitcoin Core 24.0 release candidate](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html)
 - [Nostr integration in the Alby browser extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
