@@ -30,7 +30,7 @@ tags: bitdevs, socratic-16, bitcoin, resource
 - [Hodlonaut wins defamation case against Craig Wright in Norway](https://bitcoinmagazine.com/legal/hodlonaut-wins-defamation-case-against-craig-wright)
 - [Russia to allow international trade in Bitcoin/crypto for any industry](https://www.zerohedge.com/crypto/russia-allow-international-trade-bitcoin-crypto-any-industry-report)
 - Tornado Cash
-	- [Arrested Tornado Cash developer to stay in jail after appeal rejected](https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected) ([[Arrested Tornado Cash developer to stay in jail after appeal rejected- Exclusive|Obsidian Link]])
+	- [Arrested Tornado Cash developer to stay in jail after appeal rejected](https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected)
 	- [Coin Center is suing OFAC over its Tornado Cash sanction](https://www.coincenter.org/coin-center-is-suing-ofac-over-its-tornado-cash-sanction/)
 
 # Market/Adoption
