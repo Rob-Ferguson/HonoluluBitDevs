@@ -28,15 +28,18 @@ tags: bitdevs, socratic-16, bitcoin, resource
 	- New report: [Financial stability oversight council releases report on digital asset financial stability risks and regulation](https://home.treasury.gov/news/press-releases/jy0986)
 - [EU agrees on text of landmark Bitcoin/crypto bill (MiCA)](https://bitcoinmagazine.com/legal/eu-agrees-on-crypto-mica-bill-text)
 - [Hodlonaut wins defamation case against Craig Wright in Norway](https://bitcoinmagazine.com/legal/hodlonaut-wins-defamation-case-against-craig-wright)
-- [Arrested Tornado Cash developer to stay in jail after appeal rejected](https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected)
+- [Russia to allow international trade in Bitcoin/crypto for any industry](https://www.zerohedge.com/crypto/russia-allow-international-trade-bitcoin-crypto-any-industry-report)
+- Tornado Cash
+	- [Arrested Tornado Cash developer to stay in jail after appeal rejected](https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected) ([[Arrested Tornado Cash developer to stay in jail after appeal rejected- Exclusive|Obsidian Link]])
+	- [Coin Center is suing OFAC over its Tornado Cash sanction](https://www.coincenter.org/coin-center-is-suing-ofac-over-its-tornado-cash-sanction/)
 
 # Market/Adoption
 
 - [Celsius disclosed names and transaction history of all users during bankruptcy](https://www.nobsbitcoin.com/celsius-doxxes-all-users/)
 	- Any wallet that interacted with Celsius is now publicly linked to government ID
-- [ZEBEDEE launches NBD, non-profit for open source Bitcoin development](https://bitcoinmagazine.com/business/zebedee-launches-nbd-non-profit-for-open-source-bitcoin-development)
 - [Swan Bitcoin Acquires Specter Solutions](https://bitcoinmagazine.com/business/swan-bitcoin-acquires-specter-solutions)
 - [Strike closes $80 million funding round](https://bitcoinmagazine.com/business/bitcoin-payment-provider-strike-raises-80-million)
+- [FASB settles on fair-value accounting for measuring crypto assets](https://www.wsj.com/articles/fasb-settles-on-fair-value-accounting-for-measuring-crypto-assets-11665614205)
 
 # Technology
 
@@ -47,6 +50,7 @@ tags: bitdevs, socratic-16, bitcoin, resource
 - [River announces River Lightning Services](https://www.rls.dev/)
 	- [Tweet thread from CEO Alex Leishman](https://twitter.com/Leishman/status/1579852852335640577)
 	- [River also released a report on LN insights](https://river.com/learn/files/river-lightning-report.pdf)
+- [ZEBEDEE launches NBD, non-profit for open source Bitcoin development](https://bitcoinmagazine.com/business/zebedee-launches-nbd-non-profit-for-open-source-bitcoin-development)
 - [Impervious P2P, Lightning-enabled browser launches for public use](https://newsletter.impervious.ai/impervious-ai-releases-the-highly-anticipated-impervious-browser/)
 - [Erlay support signaling merged into Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/23443)
 - [Utreexo](https://dci.mit.edu/utreexo)
@@ -55,8 +59,6 @@ tags: bitdevs, socratic-16, bitcoin, resource
 		- "Verify Bitcoin's Chain State in an Instant"
 - [John Light releases report on "Validity Rollups on Bitcoin"](https://bitcoinrollups.org/)
 	- [Tweet thread from John](https://twitter.com/lightcoin/status/1579856946781298688)
-- [LNsploit: A LN exploit testing tool](https://stacker.news/items/80134)
-- [Lisa Neigut's Lightning-Dev mailing list post about fee ratecards](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
 
 # Mining
 
@@ -76,12 +78,19 @@ tags: bitdevs, socratic-16, bitcoin, resource
 	- [Bitcoin Conference Amsterdam](https://b.tc/conference/amsterdam)
 	- [Bitcoin Collective in Edinburgh](https://bitcoincollective.co.uk/)
 	- [Plan B Forum in Lugano, Switzerland](https://planb.lugano.ch/planb-forum/) (upcoming)
-- [Muun wallet objects to opt-in full-RBF support in the Bitcoin Core 24.0 release candidate](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html)
+-	[EU expands Russian sanctions to include all crypto-asset wallets, accounts, or custody services, irrespective of the amount of the wallet](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_5989)
+	- Previously under €10,000 worth was allowed
+- [McDonald’s and other businesses now accept Bitcoin in Lugano, Switzerland](https://bitcoinmagazine.com/business/mcdonalds-accepts-bitcoin-payments-in-lugano-switzerland)
 - [Experimental BOLT12 support in LND](https://github.com/carlaKC/boltnd)
+- [Muun wallet objects to opt-in full-RBF support in the Bitcoin Core 24.0 release candidate](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html)
 - [Nostr integration in the Alby browser extension](https://blog.getalby.com/nostr-in-the-alby-extension/)
+- [LNsploit: A LN exploit testing tool](https://stacker.news/items/80134)
+- [Lisa Neigut's Lightning-Dev mailing list post about fee ratecards](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
 - [Taproot and FROST improve Bitcoin privacy](https://bitcoinmagazine.com/technical/taproot-and-frost-improve-bitcoin-privacy)
 - [Indra: Lightning powered distributed virtual private network with Bitcoin and Lightning integration.](https://github.com/Indra-Labs/indra)
 - [US bill to let 401(k) plans invest in Bitcoin/crypto](https://bitcoinmagazine.com/legal/us-bill-to-let-401-k-plans-invest-in-bitcoin-crypto)
+- [US Senator Warren leads congressional group's probe into Bitcoin mining energy use in Texas](https://www.coindesk.com/policy/2022/10/12/senator-warren-leads-congressional-groups-probe-into-bitcoin-mining-energy-use-in-texas/)
+	- [Texas Blockchain Council responds to Senator Warren’s letter about Texas Bitcoin mining](https://www.einnews.com/pr_news/595758085/texas-blockchain-council-responds-to-senator-warren-s-letter-about-texas-bitcoin-mining)
 - [supertestnet's `bitcoin-lottery-contract`: A lottery in bitcoin script with no escrow](https://github.com/supertestnet/bitcoin-lottery-contract)
 - ["Cryptographic Oracle-Based Conditional Payments" presentation by Lloyd Fournier](https://www.youtube.com/watch?v=hCjbStBKCEQ)
 - ["Stop Drinking the Elite’s Kool-Aid" by Nayib Bukele](https://bitcoinmagazine.com/print/stop-drinking-the-elites-kool-aid)
