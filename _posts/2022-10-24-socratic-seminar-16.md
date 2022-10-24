@@ -49,7 +49,7 @@ tags: bitdevs, socratic-16, bitcoin, resource
 - [River announces River Lightning Services](https://www.rls.dev/)
 	- [Tweet thread from CEO Alex Leishman](https://twitter.com/Leishman/status/1579852852335640577)
 	- [River also released a report on LN insights](https://river.com/learn/files/river-lightning-report.pdf)
-- [ZEBEDEE launches NBD, non-profit for open source Bitcoin development](https://bitcoinmagazine.com/business/zebedee-launches-nbd-non-profit-for-open-source-bitcoin-development)
+- [ZEBEDEE launches NBD, non-profit for open source Bitcoin development](https://blog.zebedee.io/announcing-nbd/)
 - [Impervious P2P, Lightning-enabled browser launches for public use](https://newsletter.impervious.ai/impervious-ai-releases-the-highly-anticipated-impervious-browser/)
 - [Erlay support signaling merged into Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/23443)
 - [Utreexo](https://dci.mit.edu/utreexo)
