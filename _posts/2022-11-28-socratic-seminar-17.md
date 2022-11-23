@@ -44,7 +44,7 @@ tags: bitdevs, socratic-17, bitcoin, resource
 	- [Bitcoin Core 24.0 release candidate includes controversial `mempoolfullrbf` configuration option](https://bitcoinops.org/en/newsletters/2022/11/16/#releases-and-release-candidates)
 	- [Pros and cons of merging full RBF into Bitcoin Core](https://bitcoinmagazine.com/technical/merging-full-replace-by-fee-into-bitcoin-core)
 	- [John Carvalho's argument against changing the default RBF behavior in Bitcoin Core](https://youtu.be/uBRhFxfIZkE?t=5067)
-- [Cash App now allows sending and receiving bitcoin payments via Lightning](https://bitcoinmagazine.com/business/cash-app-enables-bitcoin-lightning-payments-for-40-million-users) ([[para/3. Resources/Highlights/47 Million Cash App Users Can Now Send And Receive Bitcoin Lightning Payments|Obsidian Link]])
+- [Cash App now allows sending and receiving bitcoin payments via Lightning](https://bitcoinmagazine.com/business/cash-app-enables-bitcoin-lightning-payments-for-40-million-users)
 - [Trezor enables KYC-free P2P bitcoin trading via Hodl Hodl integration](https://bitcoinmagazine.com/business/trezor-enables-p2p-bitcoin-trading-hodl-hodl)
 
 # Mining
