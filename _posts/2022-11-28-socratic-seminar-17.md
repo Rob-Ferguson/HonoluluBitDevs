@@ -29,7 +29,7 @@ tags: bitdevs, socratic-17, bitcoin, resource
 	- [FTX Collapse And Humility Of Bitcoin](https://bitcoinmagazine.com/business/ftx-collapse-and-humility-of-bitcoin)
 	- [The FTX Fiasco and the Fallout to Come](https://www.swanbitcoin.com/the-ftx-fiasco-and-the-fallout-to-come/)
 	- [FTX's downfall and crypto's Bitcoin betrayal](https://www.nbcnews.com/think/opinion/bitcoin-vs-ftx-crypto-king-sam-bankman-fried-problem-rcna57964)
-	- [Crypto lender BlockFi preps for possible bankruptcy filing](https://www.coindesk.com/business/2022/11/15/crypto-lender-blockfi-preps-for-possible-bankruptcy-filing-after-ftxs-woes-wsj/)
+	- [BlockFi files for bankruptcy as FTX contagion spreads](https://www.coindesk.com/policy/2022/11/28/ftx-fallout-continues-as-crypto-lender-blockfi-declares-bankruptcy/)
 	- [Gemini Earn](https://www.nobsbitcoin.com/gemini-earn-halts-withdrawals/) and [Genesis Global Capital](https://bitcoinmagazine.com/markets/genesis-lending-halts-crypto-withdrawals) halt withdrawals/redemptions amid [Genesis solvency concerns](https://bitcoinmagazine.com/business/crypto-lender-genesis-contagion-continues)
 	- Stay humble. Stack sats. Practice self-custody.
 - [Bitcoin Policy Institute releases new report on Proof of Reserves](https://www.nobsbitcoin.com/bitcoin-policy-institute-proof-of-reserves/)
