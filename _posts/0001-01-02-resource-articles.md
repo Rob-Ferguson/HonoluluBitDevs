@@ -7,6 +7,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/
 
 # Guides
 - [An easy ColdCard setup/usage guide](https://bitcoinmagazine.com/guides/how-to-use-bitcoin-coldcard)
+- [Sparrow Wallet 101: Self Custody Your Bitcoin | Ministry of Nodes](https://www.ministryofnodes.com.au/sparrow-wallet-101-self-custody-your-bitcoin)
 
 # Mining/Energy
 - ["Bitcoin Mining & The Grid (Part 1): Generators" by Braiins](https://braiins.com/blog/bitcoin-mining-the-grid-generators)
