@@ -22,6 +22,7 @@ tags: bitdevs, socratic-18, bitcoin, resource
 - [Former FTX CEO Sam Bankman-Fried arrested in Bahamas](https://www.cbsnews.com/news/sam-bankman-fried-arrested-bahamas-ftx-fraud-charges/)
 - [Coin Center response to the Digital Asset Anti-Money Laundering Act introduced by Senators Warren and Marshall](https://www.coincenter.org/the-digital-asset-anti-money-laundering-act-is-an-opportunistic-unconstitutional-assault-on-cryptocurrency-self-custody-developers-and-node-operators/)
 	- [BTC Policy Institute: "Senator Warren’s Misguided War on Self-Custody"](https://www.btcpolicy.org/articles/senator-warrens-misguided-war-on-self-custody-of-digital-assets)
+	- [Opinion piece on how this bill proposes unconstitutional privacy restrictions for bitcoin users](https://bitcoinmagazine.com/legal/sen-warren-unconstitutional-crypto-bill)
 	- "An opportunistic, unconstitutional assault on cryptocurrency self custody, developers, and node operators"
 - [EU to force crypto companies to report their users’ holdings to tax authorities](https://bitcoinmagazine.com/legal/eu-to-force-crypto-reports-of-user-holdings)
 - [Bank of International Settlements (BIS) committee finalizes policy proposal about standardizing digital asset exposure limits for banks](https://www.bis.org/bcbs/publ/d545.pdf)
@@ -58,6 +59,7 @@ tags: bitdevs, socratic-18, bitcoin, resource
 
 - [Everyone's a Scammer](https://nakamotoinstitute.org/mempool/everyones-a-scammer/) (Hold your own keys!)
 	- [Digital Currency group owes Gemini users $900m amid Genesis insolvency](https://www.nobsbitcoin.com/digital-currency-group-owes-gemini-users-900m-amid-genesis-insolvency/)
+	- [Gemini modifies terms of service as Gemini Dollar stablecoin gets caught in market contagion](https://www.forbes.com/sites/johnhyatt/2022/12/16/crypto-exchange-gemini-modifies-terms-and-services-as-gemini-dollar-its-own-stablecoin-gets-caught-in-market-contagion/)
 	- [Assessing Binance reserves and liabilities](https://bitcoinmagazine.com/business/assessing-binance-reserves-and-liabilities)
 	- [SBF secretly funded 'The Block' news organization: CEO Michael Mccaffrey used Alameda money to buy out other investors, becoming the majority shareholder himself](https://www.nobsbitcoin.com/sbf-secretly-funded-the-block-news-org/)
 - [Brazil approves bill regulating use of bitcoin as payment](https://bitcoinmagazine.com/legal/heres-whats-in-brazils-crypto-bill)
