@@ -31,9 +31,9 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/283910858
 - [SB2698](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=2698&year=2022)
   - Prohibits any encumbrance on the right to own, possess, and use any medium of exchange
 
-![Joe Kent: Restrictions hurt Hawaii's stake in cryptocurrency market](https://www.honolulubitdevs.com/assets/imgs/socratic-seminar-8/JoeKentPost.jpg)
+![Joe Kent: Restrictions hurt Hawaii's stake in cryptocurrency market](http://www.honolulubitdevs.com/assets/imgs/socratic-seminar-8/JoeKentPost.jpg)
 
-![Ryan Ozawa: State Legislature must act to keep crypto accessible](https://www.honolulubitdevs.com/assets/imgs/socratic-seminar-8/RyanOzawaPost.jpg)
+![Ryan Ozawa: State Legislature must act to keep crypto accessible](http://www.honolulubitdevs.com/assets/imgs/socratic-seminar-8/RyanOzawaPost.jpg)
 
 
 # Geopolitics
