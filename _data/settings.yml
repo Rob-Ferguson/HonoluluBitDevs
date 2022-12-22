@@ -5,9 +5,9 @@ tagline: 'Honolulu Bitcoin Developers is a meetup devoted to the research, devel
 #url: https://rob-ferguson.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 #baseurl: /HonoluluBitDevs/      # place folder name if the site is served in a subfolder
 
-domain: www.honolulubitdevs.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://www.honolulubitdevs.com  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl:       # place folder name if the site is served in a subfolder
+#domain: www.honolulubitdevs.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+#url: https://www.honolulubitdevs.com  # the base hostname and protocol for your site, e.g. http://example.com
+#baseurl:       # place folder name if the site is served in a subfolder
 
 
 
