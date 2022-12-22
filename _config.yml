@@ -5,7 +5,8 @@ permalink: /:year-:month-:day-:title
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 future: true
 
-baseurl: "/HonoluluBitDevs"
+# baseurl: "/HonoluluBitDevs"
+baseurl: ""
 
 sass:
   sass_dir: assets/css
