@@ -15,4 +15,13 @@ title: Resources
         </div>
       {% endif %}
     {% endfor %}
+    <h2 class="Home-posts-title">Workshops</h2>
+    {% for post in site.posts %}
+      {% if post.type == "workshop" %}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      {% endif %}
+    {% endfor %}
 </div>
