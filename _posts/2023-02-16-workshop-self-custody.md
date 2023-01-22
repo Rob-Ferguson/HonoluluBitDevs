@@ -5,6 +5,23 @@ title: "Bitcoin Self-Custody Workshop"
 meetup: 
 ---
 
+# Workshop details
+- Date/Time: February 16, 2023 (6-8 PM)
+- Location: Entrepreneurs Sandbox (Purple Room)
+- Target audience: Anyone with BTC on an exchange or custodial service 
+- Agenda:  
+  - Introduction
+  - Key concepts of Bitcoin self-custody
+  - Hardware wallet demos (basic setup and signing)
+  	- Ledger
+  	- Trezor
+  	- Coldcard
+  - Advanced techniques
+  	- Intro to BIP39 passphrases
+  	- Multisignature wallet demo (basic setup and signing)
+  - Tips for building a secure custody setup 
+  - Wrap up and questions
+
 # Basic concepts
 - [How Bitcoin Wallets Work (Public & Private Key Explained)](https://www.youtube.com/watch?v=GSTiKjnBaes)
 - [Keys & Addresses](https://learnmeabitcoin.com/beginners/keys_addresses)
