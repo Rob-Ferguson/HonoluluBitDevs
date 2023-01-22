@@ -46,11 +46,22 @@ meetup:
 - [Not Your Keys, Not Your Bitcoin: Setting Up Your First Bitcoin Mobile Wallet](https://www.citadel21.com/not-your-keys-not-your-bitcoin)
 - [Bitcoin singlesig (passphrase) vs. multisig: Which is right for you?](https://unchained.com/blog/bitcoin-singlesig-passphrase-vs-multisig/)
 - [Sparrow Wallet 101: Self Custody Your Bitcoin](https://www.ministryofnodes.com.au/sparrow-wallet-101-self-custody-your-bitcoin)
-- [Bitcoin Wallet Guide | Not your keys, not your coins](https://bitcoiner.guide/wallet/)
+- [Bitcoin Wallet Guide - Not your keys, not your coins](https://bitcoiner.guide/wallet/)
 - [Software wallet comparison guide](https://bitcoin-only.com/wallets)
 - [Hardware Wallets by Brand](https://armantheparman.com/hwws/)
-- [Bitcoin Backups | Bitcoin-Intro](https://bitcoin-intro.com/en/backup)
-- [Bitcoin Storage – The ZeroTrust System | Bitcoin Guides](https://armantheparman.com/bitcoin-storage-get-better/)
+- [Bitcoin Backups - Bitcoin-Intro](https://bitcoin-intro.com/en/backup)
+- [Bitcoin Storage – The ZeroTrust System](https://armantheparman.com/bitcoin-storage-get-better/)
 - [How to replace or upgrade a bitcoin hardware wallet](https://unchained.com/blog/how-to-replace-upgrade-bitcoin-hardware-wallet/)
 - [BIP32 Hierarchical Deterministic Wallets](https://river.com/learn/terms/b/bip-32/)
 - [Bitcoin Seed XOR - A simple way of securing seeds with your COLDCARD](https://seedxor.com/)
+
+# Still unsure?
+- Remember that your self-custody journey is iterative - take the first step, start simple, and improve your setup over time
+- Avoid overcomplicating things
+- Consider scheduling a [collaborative multisig onboarding session](https://unchained.com/concierge/) with Unchained (1x1 walkthrough with an expert)
+- Reach out to me with questions, and I'll point you in the right direction
+  - Email: [honolulubitcoin@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=honolulubitcoin@gmail.com)
+  - Telegram: [Honolulu BitDevs group](https://t.me/+Uh9gbHO9EHFkZWJh)
+  - Twitter: [@RawBTC](https://twitter.com/RawBTC) or [@HonoluluBitcoin](https://twitter.com/HonoluluBitcoin)
+
+
