@@ -40,7 +40,7 @@ tags: bitdevs, socratic-19, bitcoin, resource
 
 # Technology
 
-- [Bitcoin Genesis block was 14 years ago on January 3, 2009](https://bitcoinmagazine.com/culture/bitcoin-genesis-block-14th-birthday-reflection) ([[Reflecting On The Genesis Block And Bitcoin On Its 14th Birthday|Obsidian Link]])
+- [Bitcoin Genesis block was 14 years ago on January 3, 2009](https://bitcoinmagazine.com/culture/bitcoin-genesis-block-14th-birthday-reflection)
 - [Bitcoin Core contributor Luke Dashjr loses ~200 BTC after private server compromised and warns users against upgrading Bitcoin Knots](https://unchainedpodcast.com/luke-dashjr-warns-users-about-bitcoin-knots-expiry-after-losing-3-6m-in-hack/)
 	- 200 BTC currently worth ~$4.5M
 - [BIP 329 merged: standard for wallet label exports and imports between wallets](https://www.nobsbitcoin.com/bip-329-merged/)
@@ -53,7 +53,7 @@ tags: bitdevs, socratic-19, bitcoin, resource
 
 - [Bitcoin miner Core Scientific files for bankruptcy](https://bitcoinmagazine.com/legal/bitcoin-miner-core-scientific-bankruptcy)
 	- One of the largest bitcoin mining companies in the U.S. has filed for Chapter 11 bankruptcy protection
-- [Luxor releases "Hashrate Index 2022 Bitcoin Mining Year in Review"](https://hashrateindex.com/blog/hashrate-index-2022-bitcoin-mining-year-in-review/) ([[Hashrate Index 2022 Bitcoin Mining Year in Review|Obsidian Link]])
+- [Luxor releases "Hashrate Index 2022 Bitcoin Mining Year in Review"](https://hashrateindex.com/blog/hashrate-index-2022-bitcoin-mining-year-in-review/)
 
 # Coinkite Giveaway #3
 
