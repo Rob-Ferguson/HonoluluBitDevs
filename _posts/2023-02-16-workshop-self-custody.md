@@ -1,14 +1,15 @@
 ---
 layout: blog
 type: workshop
-title: "Bitcoin Self-Custody Workshop"
+title: "Self-Custody Workshop"
 meetup: 
 ---
 
 # Workshop details
 - Date/Time: February 16, 2023 (6-8 PM)
 - Location: Entrepreneurs Sandbox (Purple Room)
-- Target audience: Anyone with BTC on an exchange or custodial service 
+- Cost: $20 paid in USD / $15 paid in BTC
+- Target audience: Anyone with BTC on an exchange or custodial service
 - Agenda:  
   - Introduction
   - Key concepts of Bitcoin self-custody
