@@ -57,7 +57,7 @@ tags: bitdevs, socratic-19, bitcoin, resource
 
 # Coinkite Giveaway #3
 
-- #### ["Guess the Nonce" Google Form](https://forms.gle/RmnDxskivwRbnVWy9)
+- ["Guess the Nonce" Google Form](https://forms.gle/RmnDxskivwRbnVWy9)
 	- Submit guesses ahead of time (only if you plan on attending the meetup)!
 	- A specific block will be chosen at the meetup and its nonce will be compared to all submissions - closest guess wins
 	- Previous winners are ineligible
