@@ -5,10 +5,8 @@ title: "Self-Custody Workshop"
 meetup: https://www.meetup.com/honolulu-bitdevs/events/291173130
 ---
 
-![Bitcoin Self-Custody Workshop](http://www.honolulubitdevs.com/assets/imgs/BTCLockLogo.jpg)
-
 # Workshop details
-- **RSVP here**: [https://www.meetup.com/honolulu-bitdevs/events/291173130](https://www.meetup.com/honolulu-bitdevs/events/291173130)
+- RSVP here: [https://www.meetup.com/honolulu-bitdevs/events/291173130](https://www.meetup.com/honolulu-bitdevs/events/291173130)
 - Date/Time: February 16, 2023 (6-8 PM)
 - Location: Entrepreneurs Sandbox (Purple Room)
 - Target audience: Anyone with BTC on an exchange or custodial service
