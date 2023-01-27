@@ -83,6 +83,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/291173130
 - [How to replace or upgrade a bitcoin hardware wallet](https://unchained.com/blog/how-to-replace-upgrade-bitcoin-hardware-wallet/)
 - [BIP32 Hierarchical Deterministic Wallets](https://river.com/learn/terms/b/bip-32/)
 - [Bitcoin Seed XOR - A simple way of securing seeds with your COLDCARD](https://seedxor.com/)
+- [Bitcoin Audible Read #694 - Locked Out of My Digital Life](https://overcast.fm/+MYnx0XEWA)
 
 ### Still unsure?
 - Remember that your self-custody journey is iterative - take the first step, start simple, and improve your setup over time

@@ -22,7 +22,7 @@ tags: bitdevs, socratic-19, bitcoin, resource
 
 # Geopolitics
 
-- [Brazilian president signs bill regulating use of Bitcoin as payment](https://bitcoinmagazine.com/legal/brazil-enacts-bitcoin-payments-bill)
+- [EU lawmakers vote to impose strict capital requirements on banks holding bitcoin and crypto](https://bitcoinmagazine.com/legal/eu-capital-requirements-banks-holding-crypto)
 - [El Salvador passes Digital Asset Issuance legislation](https://blog.bitfinex.com/announcements/el-salvadors-historic-digital-asset-securities-law-passes/)
 
 # Market/Adoption
@@ -42,7 +42,6 @@ tags: bitdevs, socratic-19, bitcoin, resource
 
 - [Bitcoin Genesis block was 14 years ago on January 3, 2009](https://bitcoinmagazine.com/culture/bitcoin-genesis-block-14th-birthday-reflection)
 - [Bitcoin Core contributor Luke Dashjr loses ~200 BTC after private server compromised and warns users against upgrading Bitcoin Knots](https://unchainedpodcast.com/luke-dashjr-warns-users-about-bitcoin-knots-expiry-after-losing-3-6m-in-hack/)
-	- 200 BTC currently worth ~$4.5M
 - [BIP 329 merged: standard for wallet label exports and imports between wallets](https://www.nobsbitcoin.com/bip-329-merged/)
 - [James O'Beirne proposes new OP_VAULT soft fork to enable simplified vault/covenant construction](https://jameso.be/vaults.pdf) 
 	- [Stephan Livera Podcast #449 with James O’Beirne on OP_Vault](https://overcast.fm/+OBZmwPw60)
@@ -51,9 +50,8 @@ tags: bitdevs, socratic-19, bitcoin, resource
 
 # Mining
 
-- [Bitcoin miner Core Scientific files for bankruptcy](https://bitcoinmagazine.com/legal/bitcoin-miner-core-scientific-bankruptcy)
-	- One of the largest bitcoin mining companies in the U.S. has filed for Chapter 11 bankruptcy protection
 - [Luxor releases "Hashrate Index 2022 Bitcoin Mining Year in Review"](https://hashrateindex.com/blog/hashrate-index-2022-bitcoin-mining-year-in-review/)
+- [The Kazakhstan mining exodus has flipped bitcoin to clean-energy dominance](https://bitcoinmagazine.com/business/leaving-kazakhstan-bitcoin-mostly-green)
 
 # Coinkite Giveaway #3
 
@@ -69,14 +67,21 @@ tags: bitdevs, socratic-19, bitcoin, resource
 # Optional Topics
 
 - [CoinCorner releases Bitcoin Best Bits 2022 recap](https://blog.coincorner.com/bitcoin-best-bits-2022-b6059bc928ee)
+- [Brazilian president signs bill regulating use of bitcoin as payment](https://bitcoinmagazine.com/legal/brazil-enacts-bitcoin-payments-bill)
+- [Bitcoin miner Core Scientific files for bankruptcy](https://bitcoinmagazine.com/legal/bitcoin-miner-core-scientific-bankruptcy)
 - [DOJ shuts down Bitzlato crypto exchange and arrests CEO for facilitating money laundering/criminal activity](https://bitcoinmagazine.com/legal/doj-shuts-down-bitzlato-crypto-exchange)
+- [Texan bitcoiners are losing access to Prime Trust-backed services at the end of January due to licensing issues](https://www.nobsbitcoin.com/prime-trust-texas-issues/)
+	- Includes Swan, Fold, and other bitcoin brokerage services and exchanges
+- [New Hampshire commission recommends statewide bitcoin mining energy plan](https://bitcoinmagazine.com/legal/new-hampshire-commission-recommends-bitcoin-mining)
 - [Congo’s most famous national park starts mining bitcoin to bring in revenue](https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/)
+- [Blockstream raises $125M to expand mining operations](https://www.prweb.com/releases/2023/1/prweb19127332.htm)
+- [Strike announces 90-day trial period for Clover point-of-sale system lightning integration](https://bitcoinmagazine.com/business/clover-integrates-bitcoin-lightning-with-strike)
+- [Fold launches enterprise API to enable businesses to offer bitcoin reward and card programs](https://foldapp.com/api)
 - [Anthony Towns announced a new version of Bitcoin Inquisition](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021275.html)
-	- Inquisition is a software fork of Bitcoin Core designed to be used on the default signet for testing proposed soft forks and other significant protocol changes
-	- Version includes support for BIP 118 (ANYPREVOUT) and BIP 119 (CHECKTEMPLATEVERIFY) on regtest and signet
-- ["Swap-in-Potentiam" proposal: non-interactive Lightning channel open commitments](https://bitcoinops.org/en/newsletters/2023/01/11/#non-interactive-ln-channel-open-commitments)
-- [Integrating statechains with Lightning channels can allow for off-chain balancing and improved flexibility](https://bitcoinmagazine.com/technical/statechain-lightning-combined-in-bitcoin)
+- ["Swap-in-Potentiam" proposal: non-interactive lightning channel open commitments](https://bitcoinops.org/en/newsletters/2023/01/11/#non-interactive-ln-channel-open-commitments)
+- [Integrating statechains with lightning channels can allow for off-chain balancing and improved flexibility](https://bitcoinmagazine.com/technical/statechain-lightning-combined-in-bitcoin)
+- [Hunting Sats wallet-cracking contest](https://bitcoinmagazine.com/culture/hunting-sats-contest-announcement)
 - [Coinbase pays $50M to NY government and promises to surveil users more](https://www.nobsbitcoin.com/coinbase-pays-50m-to-ny-gov/)
-- [Coincorner partners with pouch to bring instant remittance payments to the Philippines utilizing Bitcoin's Lightning Network](https://bitcoinmagazine.com/business/coincorner-pouch-bring-send-globally-to-philippines)
+- [Coincorner partners with pouch to bring instant remittance payments to the Philippines utilizing bitcoin's lightning network](https://bitcoinmagazine.com/business/coincorner-pouch-bring-send-globally-to-philippines)
 - [Bitcoiners are flocking to Nostr, but what makes it different?](https://bitcoinmagazine.com/technical/what-makes-nostr-a-different-social-platform)
 - [Lastpass customer vault data stolen in cloud storage breach - data vulnerable to master password bruteforce](https://www.nobsbitcoin.com/lastpass-hacked-sensitive-data-stolen/)
