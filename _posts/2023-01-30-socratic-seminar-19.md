@@ -66,7 +66,7 @@ tags: bitdevs, socratic-19, bitcoin, resource
 	- [Tales From The Crypt Podcast #388: OP_VAULT and Bitcoin Governance with James O’Beirne](https://overcast.fm/+KiHqexa6M)
 	- A covenant is a constraint put on how a coin can be spent, above and beyond the traditional requirements of satisfying a one-time unlocking script (e.g., signing a transaction with a private key)
 	- Vaults are an especially useful subset of covenant that gives users a time delay to recover funds spent unexpectedly
-	- Jame's proposal is constructed specifically for the ideal vault design without the same drawbacks of pre-existing covenant proposals
+	- James's proposal is constructed specifically to support an ideal vault design without the same drawbacks of pre-existing covenant proposals
 
 - [Wizardsardine announces Liana self-custody solution with unique timelock-based recovery mechanisms](https://wizardsardine.com/blog/liana-announcement/)
 	- Wizardsardine is a development group known for their work on Revault, an advanced and complex self-custody solution targeted toward organizations
