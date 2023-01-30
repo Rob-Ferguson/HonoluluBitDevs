@@ -24,9 +24,10 @@ tags: bitdevs, socratic-19, bitcoin, resource
 
 - [EU lawmakers vote to impose strict capital requirements on banks holding bitcoin and crypto](https://bitcoinmagazine.com/legal/eu-capital-requirements-banks-holding-crypto)
 	- European Union lawmakers have voted to impose strict capital requirements on banks that hold cryptocurrencies
-	- Banks would be allowed to hold 2% of capital in bitcoin, but required to have one euro in capital for every euro in cryptocurrency held - in an effort to “prevent instability in the crypto world from spilling over into the financial system,” according to Markus Ferber, economic spokesperson for the EU parliament's European People’s Party
-	- Lawmakers cite the chaos in the markets seen over the last few months as further evidence that such regulation is necessary
-	- The passed regulation mirrors that suggested by the Bank for International Settlements' Basel Committee, which also suggested the highest possible risk tier weighting for holdings of “unbacked crypto.” Their recommendations placed a 2% limit on tier 1 capital that could be held denominated in unbacked cryptocurrencies (BIS committee recommendation was discussed at last month's BitDevs)
+	- Banks would be allowed to hold 2% of capital in bitcoin, but required to have one euro in capital for every euro in cryptocurrency held
+	- Lawmakers cite the chaos in the markets seen over the last few months as further evidence that such regulation is necessary - to “prevent instability in the crypto world from spilling over into the financial system,” according to Markus Ferber, economic spokesperson for the EU parliament's European People’s Party
+	- The regulation mirrors the recommendation from the Bank for International Settlements' Basel Committee - a 2% limit on tier 1 capital that could be held denominated in unbacked cryptocurrencies
+	- BIS committee recommendation was discussed at last month's BitDevs
 
 # Market
 
@@ -35,19 +36,19 @@ tags: bitdevs, socratic-19, bitcoin, resource
 	- [SEC charges Genesis and Gemini for the unregistered offer and sale of crypto asset securities through the Gemini Earn lending program](https://www.sec.gov/news/press-release/2023-7)
 	- [Genesis files for Chapter 11 bankruptcy](https://www.coindesk.com/business/2023/01/20/genesis-global-files-for-bankruptcy-protection/)
 	- [Genesis already laid off 30% of staff earlier this month](https://www.wsj.com/articles/crypto-lender-genesis-lays-off-30-of-staff-11672939434)
-    - Parties affected by Genesis are going to be dragged through lengthy bankruptcy proceedings in an attempt to recoup some of their losses and pay back customers
-    - Contagion probably isn't over - Genesis's failure is going to bleed into DCG's other subsidiaries
-    - Bitcoin that is held by custodians can be frozen and stolen
+	- Parties affected by Genesis are going to be dragged through lengthy bankruptcy proceedings in an attempt to recoup some of their losses and pay back customers
+    - Contagion probably isn't over - Genesis's failure is going to bleed into DCG's other subsidiaries and connected organizations
     - Besides short-term price volatility, bitcoin that is properly self-custodied in cold storage is entirely unaffected by these incidents
 
 # Technology
 
 - [Bitcoin Genesis block was 14 years ago on January 3, 2009](https://bitcoinmagazine.com/culture/bitcoin-genesis-block-14th-birthday-reflection)
-	- 14 years ago today, Satoshi Nakamoto created the first block in the Bitcoin blockchain
+	- 14 years ago, Satoshi Nakamoto created the first block in the Bitcoin blockchain
 	- Message engraved in the block: "Chancellor on brink of the second bailout for banks"
 	- The message establishes a sort of manifesto from the start
 	- Bitcoin seeks to level the playing field, ensuring property rights to millions worldwide
 	- People are losing sight of Bitcoin's original purpose as they leave coins with 3rd-party custodians
+	- Bitcoin that is held by custodians can be frozen and stolen
 	- Proof of Keys Day, also celebrated on January 3, celebrates withdrawing coins to self-custody
 
 - [Bitcoin Core contributor Luke Dashjr loses ~200 BTC after private server compromised and warns users against upgrading Bitcoin Knots](https://unchainedpodcast.com/luke-dashjr-warns-users-about-bitcoin-knots-expiry-after-losing-3-6m-in-hack/)
@@ -56,7 +57,7 @@ tags: bitdevs, socratic-19, bitcoin, resource
 	- Most bitcoin hardware wallet users are probably in a more secure position than Luke was for protecting their bitcoin stack
 
 - [BIP 329 merged: standard for wallet label exports and imports between wallets](https://www.nobsbitcoin.com/bip-329-merged/)
-	- BIP 329 sets a new standard for backing up various types of wallet labels and import them into other compatible wallets
+	- BIP 329 sets a new standard for backing up various types of wallet labels and importing them into other compatible wallets
 	- Labels are important for tracking the history of UTXOs across transactions
 	- Craig Raw, developer of Sparrow Wallet, proposed the standard
 
@@ -98,13 +99,14 @@ tags: bitdevs, socratic-19, bitcoin, resource
 # Coinkite Giveaway #3
 
 - ["Guess the Nonce" Google Form](https://forms.gle/RmnDxskivwRbnVWy9)
-	- Submit guesses ahead of time (only if you plan on attending the meetup)!
+	- Submit guesses ahead of time (only if you plan on attending the meetup!)
 	- A specific block will be chosen at the meetup and its nonce will be compared to all submissions - closest guess wins
 	- Previous winners are ineligible
 	- [Video explaining what a nonce is in relation to bitcoin mining](https://youtu.be/6MgJCGb01jI?t=190)
-		- A "nonce" is a "number used only once".
-		- Miners are continuously hashing block data when trying to "win" the block lottery. The nonce is an extra field that can be repeatedly modified to produce entirely new hashes without changing the actual transaction data in the block.
-		- Miners keep changing the nonce to generate new hashes, ultimately trying to get close enough to the difficulty target.
+		- A "nonce" is a "number used only once"
+		- Miners are continuously hashing block data when trying to "win" the block lottery
+		- The nonce is an extra field that can be repeatedly modified to produce entirely new hashes without changing the actual transaction data in the block
+		- Miners keep changing the nonce to generate new hashes, ultimately trying to get close enough to the difficulty target
 
 # Optional Topics
 
