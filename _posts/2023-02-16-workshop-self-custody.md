@@ -40,6 +40,7 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/291173130
 - [Bitcoin Wallets: How, Why and When to Hold Your Own Private Keys](https://www.swanbitcoin.com/bitcoin-wallets-not-your-keys-not-your-bitcoin/)
 - [BIP39 Mnemonic Seed Phrases](https://river.com/learn/terms/b/bip-39/)
 - [What is a bitcoin seed phrase and how does it work?](https://unchained.com/blog/what-is-a-bitcoin-seed-phrase/)
+- [What is a bitcoin UTXO?](https://youtu.be/0_5wb5agLqE)
 
 ### Device-specific tutorials (setup and usage)
 - [Ledger Nano X](https://youtu.be/R0YWdw2AOCg)
