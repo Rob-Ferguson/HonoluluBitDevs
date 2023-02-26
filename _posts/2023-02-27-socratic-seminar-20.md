@@ -19,7 +19,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 
 # Geopolitics/Market
 
-- [Mississippi & Missouri lawmakers introduce bills to protect the rights to mine bitcoin and run a node](https://bitcoinmagazine.com/legal/mississippi-missouri-bills-to-protect-bitcoin) ([[Mississippi, Missouri Lawmakers Introduce Bills To Protect The Rights To Mine Bitcoin And Run A Node|Obsidian Link]])
+- [Mississippi & Missouri lawmakers introduce bills to protect the rights to mine bitcoin and run a node](https://bitcoinmagazine.com/legal/mississippi-missouri-bills-to-protect-bitcoin)
 	- Lawmakers from the U.S. states of Mississippi and Missouri have introduced bills that seek to legally protect their citizens’ rights to run a Bitcoin node and to mine BTC
 	- The bills also have language prohibiting:
 		- Political subdivisions of the state creating requirements which are not in line with other data center requirements, and changing the zoning of bitcoin miners without proper notice
@@ -27,12 +27,12 @@ tags: bitdevs, socratic-20, bitcoin, resource
 		- Sound ordinances directed at mining facilities that are not in-line with other sound ordinances within the community
 		- Operating nodes or miners being considered the act of money transmitting
 
-- [Wyoming legislature passes bill protecting bitcoin private keys from courts](https://bitcoinmagazine.com/legal/wyoming-legislature-bill-protecting-private-keys) ([[Wyoming Legislature Passes Bill Protecting Bitcoin Private Keys From Courts|Obsidian Link]])
+- [Wyoming legislature passes bill protecting bitcoin private keys from courts](https://bitcoinmagazine.com/legal/wyoming-legislature-bill-protecting-private-keys)
 	- The U.S. state of Wyoming has passed a bill that protects its citizens from having to disclose their private keys
 	- The bill states that “No person shall be compelled to produce a private key or make a private key known to any other person in any civil, criminal, administrative, legislative or other proceeding in this state that relates to a digital asset, digital identity or other interest or right to which the private key provides access unless a public key is unavailable or unable to disclose the requisite information with respect to the digital asset, digital identity or other interest or right.”
 	- The bill has been approved by the state Senate and House of Representatives and now needs to be signed by the Governor in order to take effect
 
-- [Kraken to discontinue unregistered offer and sale of crypto asset staking-as-a-service program and pay $30 million to settle SEC charges](https://www.sec.gov/news/press-release/2023-25) ([[Crypto Exchange Kraken Settles With SEC Over Unregistered Staking Services|Obsidian Link]])
+- [Kraken to discontinue unregistered offer and sale of crypto asset staking-as-a-service program and pay $30 million to settle SEC charges](https://www.sec.gov/news/press-release/2023-25)
 	- The SEC has charged Kraken with failing to register the offer and sale of their crypto asset staking-as-a-service program
 	- The program allowed investors to transfer crypto assets to Kraken for staking in exchange for advertised annual investment returns
 	- The SEC's complaint also alleges that Kraken claimed its staking investment program offered easy-to-use benefits and strategies to obtain regular investment returns, but provided investors with zero insight into its financial condition, among other things
@@ -40,12 +40,12 @@ tags: bitdevs, socratic-20, bitcoin, resource
 
 # Technology
 
-- [Coinkite launches preorders for new bitcoin hardware wallet COLDCARD Q1](https://bitcoinmagazine.com/business/coinkite-new-bitcoin-wallet-coldcard-q1) ([[Coinkite Launches Its New Flagship Bitcoin Hardware Wallet Coldcard Q1|Obsidian Link]])
+- [Coinkite launches preorders for new bitcoin hardware wallet COLDCARD Q1](https://bitcoinmagazine.com/business/coinkite-new-bitcoin-wallet-coldcard-q1)
 	- Coinkite is launching a higher-end, battery-powered COLDCARD, featuring a full QWERTY keyboard, a larger LCD screen, 2 microSD card slots, and a QR code scanner
 	- It borrows some core features included in the Mk4: same secure element setup, NFC compatibility, USB virtual disk mode, USB-C connector, etc.
 	- The new COLDCARD Q1 is available for pre-sale at $199 with a planned release in Q4 2023
 
-- [Breez's new SDK enables non-custodial "Lightning as a Service" integration for developers](https://medium.com/breez-technology/lightning-for-everyone-in-any-app-lightning-as-a-service-via-the-breez-sdk-41d899057a1d) ([[Lightning for Everyone in Any App - Lightning as a Service via the Breez SDK|Obsidian Link]])
+- [Breez's new SDK enables non-custodial "Lightning as a Service" integration for developers](https://medium.com/breez-technology/lightning-for-everyone-in-any-app-lightning-as-a-service-via-the-breez-sdk-41d899057a1d)
 	- The open-source Breez SDK enables developers to integrate Lightning and bitcoin payments into their apps with zero learning curve or technical expertise.
 	- It’s an end-to-end, non-custodial, drop-in solution powered by [Blockstream's Greenlight](https://blockstream.com/lightning/greenlight/), including a built-in LSP, on-chain interoperability, fiat on-ramps, and other services users and operators need.
 	- Key benefits:
@@ -65,7 +65,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 		- It's global: no borders
 			- Non-custodial lightning wallets circumvent the regulatory hurdles associated with different geopolitical jurisdictions
 
-- [Voltage announces Flow 2.0: A new LSP focused on just-in-time liquidity](https://voltage.cloud/blog/voltage-announcements/introducing-flow-v2/) ([[Introducing Flow v2 - A New LSP Focused on Just In Time Liquidity|Obsidian Link]])
+- [Voltage announces Flow 2.0: A new LSP focused on just-in-time liquidity](https://voltage.cloud/blog/voltage-announcements/introducing-flow-v2/)
 	- The initial version of Flow was released over a year ago and was created as an easy way to purchase persistent channels of a given size to help users get inbound (and outbound) capacity
 	- Flow 2.0 is an upgrade to provide liquidity at the exact moment it is needed - a receiver can have zero liquidity and still receive payment via Voltage’s liquidity
 	- Flow 2.0 is a noncustodial way to easily receive Lightning payments without thinking about channels
@@ -78,7 +78,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 	- "No need to own/spend bitcoin, stomach volatility, encounter taxable events, handle added accounting, or take on any legal/compliance headaches"
 	- List of [example applications](https://docs.strike.me/walkthrough/example-apps/) in the documentation
 
-- [BlueWallet is sunsetting LNDhub.io and is no longer supporting custodial Lightning wallets](https://bluewallet.io/sunsetting-lndhub/) ([[Sunsetting Lndhub.io|Obsidian Link]])
+- [BlueWallet is sunsetting LNDhub.io and is no longer supporting custodial Lightning wallets](https://bluewallet.io/sunsetting-lndhub/)
 	- Lightning wallets in BlueWallet have historically been custodial by default, leveraging their own [LNDhub](https://bluewallet.io/lndhub/) instance to provide separate accounts for individual BlueWallet users
 	- BlueWallet is shutting down their LNDhub instance on April 30th, meaning any users that have sats on BlueWallet's lightning node need to move their funds to a different wallet before that deadline
 	- In the interim, BlueWallet LN users can still withdraw sats, but creating new or refilling existing lightning wallets on the LNDHub node is no longer possible
@@ -88,7 +88,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 
 # Mining
 
-- [Fedipool: Fedimint could mitigate bitcoin mining pool concerns](https://www.discreetlog.com/fedipool/) ([[Fedipool - Fedimint Could Mitigate Bitcoin Mining Pool Concerns|Obsidian Link]])
+- [Fedipool: Fedimint could mitigate bitcoin mining pool concerns](https://www.discreetlog.com/fedipool/)
 	- The overwhelming majority of bitcoin mining relies on mining pools
 	- Mining pool operators custody bitcoin for their users and choose which transactions are included in the blocks they mine
 	- Fedimint is an emerging open source protocol that combines bitcoin, lightning, chaumian ecash, and federated custodians (called Guardians) to create community wallets that are easy to use, have strong privacy, reduced custodial risk, cheap and fast payments within the community, and interoperability with all bitcoin wallets
@@ -115,7 +115,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 - [Flyover: A repayment protocol for fast bitcoin transfers over federated pegs](https://eprint.iacr.org/2023/086)
 - [Maravedí: A secure and practical protocol to trade risk for instantaneous finality](https://eprint.iacr.org/2023/183)
 - [Fedimint hackathon winners announced](https://www.fedi.xyz/blog/fedimint-hackaton-winners)
-- [How many bitcoin confirmations is enough?](https://blog.lopp.net/how-many-bitcoin-confirmations-is-enough/) ([[How Many Bitcoin Confirmations is Enough|Obsidian Link]])
+- [How many bitcoin confirmations is enough?](https://blog.lopp.net/how-many-bitcoin-confirmations-is-enough/)
 - [Ordisrespector is a mempool filter that rejects ordinal transactions](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html)
 - [Muun wallet submarine swaps are quickly expanding the UTXO set](https://twitter.com/mononautical/status/1621663167582437376?s=20)
 - [Should we remove the OP_RETURN size limit?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021438.html)
@@ -123,5 +123,5 @@ tags: bitdevs, socratic-20, bitcoin, resource
 - [Bitcoin + Nostr could redefine social media](https://bitcoinmagazine.com/culture/nostr-and-bitcoin-can-change-social-media)
 - [Bitcoin Search: A search engine for bitcoin technical documentation and discussions](https://bitcoinsearch.xyz)
 - [Proposal for a serverless version of the BIP78 payjoin protocol](https://bitcoinops.org/en/newsletters/2023/02/01/#serverless-payjoin-proposal)
-- [U.K. details plan to regulate bitcoin/cryptocurrency industry](https://bitcoinmagazine.com/legal/u-k-details-plan-to-regulate-bitcoin) ([[U.K. Details Plan To Regulate Bitcoin, Cryptocurrency Industry|Obsidian Link]])
+- [U.K. details plan to regulate bitcoin/cryptocurrency industry](https://bitcoinmagazine.com/legal/u-k-details-plan-to-regulate-bitcoin)
 - [UK court rules Craig Wright has no copyright claim on bitcoin](https://bitcoinmagazine.com/legal/court-rules-craig-wright-has-no-bitcoin-copyright)
