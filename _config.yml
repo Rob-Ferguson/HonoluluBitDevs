@@ -1,13 +1,13 @@
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title
+permalink: /:year/:month/:day/:title
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 future: true
 
 sass:
   sass_dir: assets/css
-  style: :compressed
+  style: compressed
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: "Honolulu Bitcoin Developers"
