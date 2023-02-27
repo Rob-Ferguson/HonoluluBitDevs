@@ -110,6 +110,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 
 # Optional Topics
 
+- [Bitcoin Core maintainer Marco Falke steps down](https://www.nobsbitcoin.com/marco-falke-steps-down/)
 - [James O'Beirne writes formal BIP for OP_VAULT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021465.html)
 - [Codex32: Proposed BIP for offline seed-splitting and recovery scheme](https://bitcoinops.org/en/newsletters/2023/02/22/#proposed-bip-for-codex32-seed-encoding-scheme)
 - [Handcrank: A drivechain wannabe with no softfork](https://github.com/supertestnet/handcrank)
