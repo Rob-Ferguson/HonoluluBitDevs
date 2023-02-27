@@ -32,13 +32,13 @@ tags: bitdevs, socratic-20, bitcoin, resource
 	- The bill states that “No person shall be compelled to produce a private key or make a private key known to any other person in any civil, criminal, administrative, legislative or other proceeding in this state that relates to a digital asset, digital identity or other interest or right to which the private key provides access unless a public key is unavailable or unable to disclose the requisite information with respect to the digital asset, digital identity or other interest or right.”
 	- The bill has been approved by the state Senate and House of Representatives and now needs to be signed by the Governor in order to take effect
 
-- [Kraken to discontinue unregistered offer and sale of crypto asset staking-as-a-service program and pay $30 million to settle SEC charges](https://www.sec.gov/news/press-release/2023-25)
-	- The SEC has charged Kraken with failing to register the offer and sale of their crypto asset staking-as-a-service program
-	- The program allowed investors to transfer crypto assets to Kraken for staking in exchange for advertised annual investment returns
-	- The SEC's complaint also alleges that Kraken claimed its staking investment program offered easy-to-use benefits and strategies to obtain regular investment returns, but provided investors with zero insight into its financial condition, among other things
-	- SEC Chair Gary Gensler commented, "Today’s action should make clear to the marketplace that staking-as-a-service providers must register and provide full, fair, and truthful disclosure and investor protection."
-
 # Technology
+
+- [Bitcoin Core maintainer Marco Falke steps down](https://www.nobsbitcoin.com/marco-falke-steps-down/)
+	- Quality assurance and testing maintainer for Bitcoin Core for 7 years
+	- Didn't provide a specific reason other than saying "being a maintainer is no longer a good fit for me personally."
+	- Several other maintainers have also stepped down over the last few years, often citing increasing legal risk as a motivating factor
+	- There are only 4 Bitcoin Core maintainers left: Hennadii Stepanov, Michael Ford, Andrew Chow, and Gloria Zhao
 
 - [Coinkite launches preorders for new bitcoin hardware wallet COLDCARD Q1](https://bitcoinmagazine.com/business/coinkite-new-bitcoin-wallet-coldcard-q1)
 	- Coinkite is launching a higher-end, battery-powered COLDCARD, featuring a full QWERTY keyboard, a larger LCD screen, 2 microSD card slots, and a QR code scanner
@@ -110,7 +110,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 
 # Optional Topics
 
-- [Bitcoin Core maintainer Marco Falke steps down](https://www.nobsbitcoin.com/marco-falke-steps-down/)
+- [Kraken to discontinue unregistered offer and sale of crypto asset staking-as-a-service program and pay $30 million to settle SEC charges](https://www.sec.gov/news/press-release/2023-25)
 - [James O'Beirne writes formal BIP for OP_VAULT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021465.html)
 - [Codex32: Proposed BIP for offline seed-splitting and recovery scheme](https://bitcoinops.org/en/newsletters/2023/02/22/#proposed-bip-for-codex32-seed-encoding-scheme)
 - [Handcrank: A drivechain wannabe with no softfork](https://github.com/supertestnet/handcrank)
