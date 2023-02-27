@@ -89,6 +89,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 # Mining
 
 - [Fedipool: Fedimint could mitigate bitcoin mining pool concerns](https://www.discreetlog.com/fedipool/)
+	- More discussion on [pros and cons](https://github.com/fedimint/fedimint/discussions/1504)
 	- The overwhelming majority of bitcoin mining relies on mining pools
 	- Mining pool operators custody bitcoin for their users and choose which transactions are included in the blocks they mine
 	- Fedimint is an emerging open source protocol that combines bitcoin, lightning, chaumian ecash, and federated custodians (called Guardians) to create community wallets that are easy to use, have strong privacy, reduced custodial risk, cheap and fast payments within the community, and interoperability with all bitcoin wallets
