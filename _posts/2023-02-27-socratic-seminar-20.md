@@ -103,7 +103,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 		- Miners can withdraw mining rewards using bitcoin or lightning at their leisure
 		- Regulatory risk is significantly reduced since Guardians can be easily located in different jurisdictions throughout the world
 
-- [Many ~4MB blocks mined this month as Ordinal inscriptions approach 200k milestone](https://blockchair.com/bitcoin/blocks?s=size(desc)#)
+- [Many ~4MB blocks mined this month as Ordinal inscriptions break 200k milestone](https://blockchair.com/bitcoin/blocks?s=size(desc)#)
 	- Fees have been low enough that inscriptions are relatively economical 
 	- It's yet to be seen whether inscriptions will maintain popularity over time, especially as fees go up
 	- Still a lot of debate on whether or not inscriptions are a good use of block space, but most have accepted that they're inevitable either way
@@ -116,6 +116,7 @@ tags: bitdevs, socratic-20, bitcoin, resource
 - [Handcrank: A drivechain wannabe with no softfork](https://github.com/supertestnet/handcrank)
 - [Flyover: A repayment protocol for fast bitcoin transfers over federated pegs](https://eprint.iacr.org/2023/086)
 - [Maravedí: A secure and practical protocol to trade risk for instantaneous finality](https://eprint.iacr.org/2023/183)
+- [BTCPay Server launches beta release of WabiSabi-based Coinjoin plugin](https://twitter.com/MrKukks/status/1630221270246719489?s=20)
 - [Fedimint hackathon winners announced](https://www.fedi.xyz/blog/fedimint-hackaton-winners)
 - [How many bitcoin confirmations is enough?](https://blog.lopp.net/how-many-bitcoin-confirmations-is-enough/)
 - [Ordisrespector is a mempool filter that rejects ordinal transactions](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html)
