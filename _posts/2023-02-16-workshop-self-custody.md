@@ -32,6 +32,16 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/291173130
 - Tips for building a secure custody setup 
 - Wrap up and questions
 
+# Slideshow
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGjKz_f7YGDRX63gi6JJY4dPY5eFV_aDir6zzeg04UVxrcZkXF1twuLIC_ZqgB3DP07TFM1aLj42gg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
+
 # Supplemental resources
 
 ### Basic concepts
