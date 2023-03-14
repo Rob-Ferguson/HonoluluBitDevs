@@ -6,18 +6,9 @@ meetup: https://www.meetup.com/honolulu-bitdevs/events/291173130
 ---
 
 # Workshop details
-- RSVP here: [https://www.meetup.com/honolulu-bitdevs/events/291173130](https://www.meetup.com/honolulu-bitdevs/events/291173130)
+- Event Link: [https://www.meetup.com/honolulu-bitdevs/events/291173130](https://www.meetup.com/honolulu-bitdevs/events/291173130)
 - Date/Time: February 16, 2023 (6-8 PM)
 - Location: Entrepreneurs Sandbox (Purple Room)
-- Target audience: Anyone with BTC on an exchange or custodial service
-- Cost:
-  - $20 paid in USD
-    - [PayPal](https://www.paypal.com/instantcommerce/checkout/NF3SPMZ7CL53S) (can use credit/debit card)
-    - [Cash App](https://cash.app/$RawBTC) ($RawBTC)
-    - [Venmo](https://www.venmo.com/u/RawBTC) (@RawBTC)
-    - Cash at the door
-  - $15 paid in BTC
-    - [OpenNode](https://checkout.opennode.com/p/b7505a4e-e29b-4b64-aa15-af35a87bcb04)
 
 # Workshop agenda  
 - Introduction
