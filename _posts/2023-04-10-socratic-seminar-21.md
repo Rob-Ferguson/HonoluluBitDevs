@@ -20,13 +20,13 @@ tags: bitdevs, socratic-21, bitcoin, resource
 
 # Technology
 
-### Base layer
+#### Base layer
 - [BIP-327 Merged: MuSig2 for BIP340-compatible Multi-Signatures](https://www.nobsbitcoin.com/bip-327-merged/)
 - [How Zerosync hopes to reduce the costs of validating bitcoin nodes](https://bitcoinmagazine.com/technical/zerosync-reduces-bitcoin-node-validation)
 	- [ZeroSync partners with Blockstream to sync bitcoin nodes quickly from space](https://www.nobsbitcoin.com/zerosync-partners-with-blockstream/)
 - [Block requests community feedback on Mining Development Kit](https://www.mining.build/the-mining-development-kit-unlocking-innovation-in-bitcoin-mining/)
 
-### Second layer
+#### Second layer
 - [Route Blinding has been merged into the Lightning spec](https://www.nobsbitcoin.com/route-blinding-merged/)
 - [@dusty_daemon](https://twitter.com/dusty_daemon)'s [PR to add channel splicing to CoreLightning](https://github.com/ElementsProject/lightning/pull/5675)
 - [Lightning Dev Kit (LDK) announces roadmap](https://lightningdevkit.org/blog/ldk-roadmap/?ref=nobsbitcoin.com)
@@ -36,7 +36,7 @@ tags: bitdevs, socratic-21, bitcoin, resource
 - [Gigi proposes "Lightning Prisms" concept](https://dergigi.com/2023/03/12/lightning-prisms/)
 - [Lightning accelerator “In Wolf’s Clothing” announces first cohort](https://wolfnyc.com/news-wolfpack-1)
 
-### Other
+#### Other
 - [Fedimint Stability Pool Proposal](https://www.nobsbitcoin.com/fedimint-stability-pool-proposal/)
 	- [Stability Pool breakdown from The Bitcoin Manual](https://thebitcoinmanual.com/articles/fedimint-stability-pool/)
 - [The Bitcoin Whitepaper is hidden in every modern copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
