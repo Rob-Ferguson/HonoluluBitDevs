@@ -17,3 +17,5 @@ Archives of discussion topics and presentations can be found in the event
 descriptions of past meetups. The discussion portion of the event is generally never
 recorded. It is recommended that you have a firm grasp of the basics of Bitcoin
 in order to extract the most value from our Socratic events.
+
+Check out all of our past events [here](https://www.honolulubitdevs.com/events).

@@ -3,6 +3,5 @@ tagline: 'Honolulu Bitcoin Developers is a meetup devoted to the research, devel
 
 menu:
   - {name: 'About', url: '/about'}
-  - {name: 'Events', url: '/events'}
   - {name: 'Resources', url: '/resources'}
   - {name: 'Meetup', url: 'https://www.meetup.com/honolulu-bitdevs/', external: true}
