@@ -1,3 +1,9 @@
+# Deprecated
+
+**This repo is no longer updated. The source code for the new version of this website can be found [here](https://github.com/Rob-Ferguson/HonoluluBitDevs-Rebrand).**
+
+---
+
 # Honolulu Bitcoin Developers
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
